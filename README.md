@@ -2,13 +2,13 @@
 
 ## Sobre o desafio
 
-Esta solução foi construída para consolidar e analisar três empresas do Grupo Mont com modelos de negócio distintos:
+Ao analisar o desafio, o ponto que mais me chamou atenção foi que as três empresas do Grupo Mont não poderiam ser tratadas como se fossem o mesmo negócio. A Montseguro acompanha vidas e implantação, a Prop5 trabalha com um ciclo consultivo e comissão, e a TechBrabo precisa separar venda, receita recorrente e capacidade operacional. A partir disso, organizei o dashboard para preservar essas diferenças e, ao mesmo tempo, permitir uma visão executiva do grupo.
+
+As empresas modeladas:
 
 - **Montseguro** — planos de saúde empresariais
 - **Prop5** — consultoria e estruturação patrimonial/imobiliária
 - **TechBrabo** — tecnologia B2B
-
-O objetivo do dashboard é transformar dados simulados em indicadores executivos que apoiem decisões sobre meta, ritmo, funil comercial, marketing e riscos operacionais.
 
 **Os dados utilizados nesta versão são demonstrativos/simulados.** Não representam informações reais do Grupo Mont.
 
@@ -18,11 +18,11 @@ O objetivo do dashboard é transformar dados simulados em indicadores executivos
 
 ### Montseguro
 
-Opera com planos de saúde empresariais. A jornada comercial modelada é:
+Planos de saúde empresariais. Jornada comercial modelada:
 
 Lead → Qualificação → Cotação → Proposta → Contratação → Implantação
 
-Pontos centrais da interpretação:
+O que precisei separar desde o início:
 
 - **Contrato ≠ vidas** — um contrato pode cobrir múltiplas vidas.
 - **Contratação ≠ implantação** — assinar o contrato não significa que as vidas já foram implantadas.
@@ -30,11 +30,11 @@ Pontos centrais da interpretação:
 
 ### Prop5
 
-Atua com consultoria e estruturação patrimonial/imobiliária. A jornada modelada é:
+Consultoria e estruturação patrimonial/imobiliária. Jornada modelada:
 
 Lead → Qualificação → Diagnóstico → Reunião → Oportunidade → Negociação → Estruturação → Fechamento
 
-Pontos centrais da interpretação:
+Distinções que orientaram os KPIs:
 
 - **Valor do ativo ≠ receita** — o volume financeiro do ativo não é o resultado da Prop5.
 - **Pipeline ≠ venda** — oportunidades abertas representam potencial, não realizado.
@@ -43,34 +43,47 @@ Pontos centrais da interpretação:
 
 ### TechBrabo
 
-Empresa de tecnologia B2B. A jornada comercial modelada é:
+Tecnologia B2B. Jornada comercial modelada:
 
 Lead → Qualificação → Reunião → Diagnóstico → Proposta → Negociação → Contrato
 
-Pontos centrais da interpretação:
+O que não dava para misturar:
 
 - **Contrato assinado ≠ receita imediata** — a receita é reconhecida ao longo do tempo.
 - **Receita pontual ≠ receita recorrente** — projetos e MRR têm dinâmicas diferentes.
 - **MRR** representa a base recorrente ativa no período.
-- Vendas devem ser analisadas junto com **capacidade e risco operacional** dos projetos ativos.
+- Vendas precisam ser lidas junto com **capacidade e risco operacional** dos projetos ativos.
 
 ---
 
 ## Estratégia da solução
 
-A construção seguiu a linha de raciocínio:
+Antes de pensar em gráficos, tentei responder quais decisões cada tela deveria ajudar a tomar. A partir daí, defini os dados necessários, os KPIs e só depois montei a interface.
+
+A linha de raciocínio que guiei foi:
 
 ```
 NEGÓCIO → PERGUNTA → DADOS → KPI → VISUALIZAÇÃO → DECISÃO
 ```
 
-Primeiro foram entendidas as jornadas e diferenças entre os três modelos de negócio. Em seguida, os dados foram modelados em entidades compartilhadas e específicas. Depois, os KPIs foram definidos e implementados na camada de domínio. Por fim, a interface foi construída para consumir esses resultados — sem duplicar regras de negócio nos componentes.
+Primeiro entendi as jornadas e as diferenças entre os três modelos. Depois modelei os dados em entidades compartilhadas e específicas, implementei os KPIs na camada de domínio e, por fim, construí a interface para consumir esses resultados — sem duplicar regras de negócio nos componentes.
+
+---
+
+## Decisões e trade-offs
+
+Pelo prazo e pela natureza do desafio, algumas escolhas foram deliberadas:
+
+- Priorizei entendimento de negócio e qualidade dos KPIs em vez de ampliar escopo visual.
+- Usei dados demonstrativos locais em JSON em vez de criar backend sem necessidade real.
+- Mantive regras de negócio separadas da UI (`src/domain`), para que os mesmos cálculos pudessem ser reutilizados ou testados de forma independente.
+- Adotei forecasts simples e documentados (ritmo linear ou pipeline ponderado), porque o dataset não oferece histórico suficiente para modelos mais sofisticados.
+- Preferi insights determinísticos e explicáveis em vez de adicionar IA apenas por aparência.
+- Num cenário de evolução, conectaria as mesmas regras a fontes reais (CRM, ERP, financeiro) sem reescrever a lógica de domínio.
 
 ---
 
 ## Arquitetura
-
-O projeto segue uma separação clara de responsabilidades:
 
 | Camada | Responsabilidade |
 |--------|------------------|
@@ -79,7 +92,7 @@ O projeto segue uma separação clara de responsabilidades:
 | `src/components` | Componentes visuais reutilizáveis |
 | `src/pages` | Composição das telas do dashboard |
 
-Os componentes React **não calculam** os principais KPIs. Eles consomem resultados produzidos pela camada de domínio (`src/domain`).
+Os componentes React **não calculam** os principais KPIs — consomem resultados da camada de domínio.
 
 ```mermaid
 flowchart LR
@@ -113,7 +126,7 @@ flowchart LR
 
 ### Papel do `stageHistory`
 
-Cada oportunidade possui um histórico de estágios (`stageHistory`) com data de entrada em cada etapa. Esse histórico permite:
+Cada oportunidade possui um histórico de estágios (`stageHistory`) com data de entrada em cada etapa. Isso permite:
 
 - Calcular funis comerciais (quantas oportunidades alcançaram cada estágio)
 - Medir conversões entre etapas
@@ -142,7 +155,7 @@ erDiagram
     Opportunity ||--o| TechProject : "TechBrabo"
 ```
 
-Uma camada comum permite consolidação do grupo, enquanto entidades específicas preservam as diferenças dos modelos de negócio.
+Uma camada comum permite consolidação do grupo; entidades específicas preservam as diferenças dos modelos de negócio.
 
 ---
 
@@ -150,23 +163,23 @@ Uma camada comum permite consolidação do grupo, enquanto entidades específica
 
 ### CEO Overview (`/`)
 
-Visão consolidada das três empresas com meta, realizado, atingimento, meta esperada até a data, gap de ritmo, forecast, comparação entre empresas e prioridades sugeridas ("Onde agir primeiro").
+Meta, realizado, atingimento, meta esperada até a data, gap de ritmo, forecast, comparação entre empresas e prioridades sugeridas ("Onde agir primeiro").
 
 ### Comercial (`/comercial`)
 
-Funis específicos por empresa, conversões entre etapas, principal gargalo, ciclo médio, pipeline nominal/ponderado e performance por vendedor. Visão consolidada do grupo e abas por empresa.
+Funis por empresa, conversões entre etapas, principal gargalo, ciclo médio, pipeline nominal/ponderado e performance por vendedor.
 
 ### Marketing (`/marketing`)
 
-Investimento, leads, oportunidades, CPL, custo por oportunidade, taxa Lead → Oportunidade, negócios finais e eficiência por canal. Abas por empresa.
+Investimento, leads, oportunidades, CPL, custo por oportunidade, taxa Lead → Oportunidade, negócios finais e eficiência por canal.
 
 ### Empresas (`/empresas`)
 
-Visão aprofundada de cada modelo de negócio com KPIs específicos e leitura de negócio contextual.
+Visão aprofundada de cada modelo de negócio, com KPIs específicos e leitura contextual.
 
 ### Insights (`/insights`)
 
-Alertas gerados por regras determinísticas com severidade (positivo, atenção, crítico), categoria, métrica relacionada e recomendação.
+Alertas por regras determinísticas, com severidade (positivo, atenção, crítico), categoria, métrica relacionada e recomendação.
 
 ---
 
@@ -182,7 +195,7 @@ Alertas gerados por regras determinísticas com severidade (positivo, atenção,
 | Lucide React | Ícones da navegação |
 | JSON local | Fonte de dados demonstrativos |
 
-**Por que não há backend:** o desafio permite dados simulados e o foco desta versão está em entendimento de negócio, modelagem de KPIs e visualização. Esta não é uma arquitetura de produção — é uma prova de conceito executiva com dados estáticos.
+Não criei backend porque o desafio permite dados simulados e o foco ficou em negócio, KPIs e visualização. Esta não é uma arquitetura de produção — é uma prova de conceito executiva com dados estáticos.
 
 ---
 
@@ -209,7 +222,7 @@ Alertas gerados por regras determinísticas com severidade (positivo, atenção,
 ## Premissas e limitações
 
 - Dataset **completamente demonstrativo** — valores não representam dados reais do Grupo Mont.
-- **Sem backend** — todos os dados são carregados de arquivos JSON locais.
+- **Sem backend** — dados carregados de arquivos JSON locais.
 - **Sem autenticação** — não há controle de acesso ou perfis de usuário.
 - **Sem integração** com CRM, ERP ou sistemas financeiros.
 - **Forecast Montseguro e TechBrabo** usa ritmo linear: `realizado × (dias do mês / dias decorridos)`.
