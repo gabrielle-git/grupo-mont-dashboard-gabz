@@ -1,0 +1,74 @@
+[
+  {
+    "id": "cmp-ms-google",
+    "companyId": "montseguro",
+    "name": "Google Search PME",
+    "channel": "Google Ads",
+    "investment": 18000,
+    "period": "2026-08"
+  },
+  {
+    "id": "cmp-ms-meta",
+    "companyId": "montseguro",
+    "name": "Meta CNPJ Saúde",
+    "channel": "Meta Ads",
+    "investment": 14500,
+    "period": "2026-08"
+  },
+  {
+    "id": "cmp-ms-ref",
+    "companyId": "montseguro",
+    "name": "Indicações Agosto",
+    "channel": "Indicação",
+    "investment": 2500,
+    "period": "2026-08"
+  },
+  {
+    "id": "cmp-p5-google",
+    "companyId": "prop5",
+    "name": "Google Investidor Exterior",
+    "channel": "Google Ads",
+    "investment": 22000,
+    "period": "2026-08"
+  },
+  {
+    "id": "cmp-p5-linkedin",
+    "companyId": "prop5",
+    "name": "LinkedIn Expatriados",
+    "channel": "LinkedIn",
+    "investment": 18500,
+    "period": "2026-08"
+  },
+  {
+    "id": "cmp-p5-webinar",
+    "companyId": "prop5",
+    "name": "Webinar Método M5",
+    "channel": "Evento/Webinar",
+    "investment": 9000,
+    "period": "2026-08"
+  },
+  {
+    "id": "cmp-tb-linkedin",
+    "companyId": "techbrabo",
+    "name": "LinkedIn B2B Tech",
+    "channel": "LinkedIn",
+    "investment": 12000,
+    "period": "2026-08"
+  },
+  {
+    "id": "cmp-tb-outbound",
+    "companyId": "techbrabo",
+    "name": "Outbound Enterprise",
+    "channel": "Outbound",
+    "investment": 7000,
+    "period": "2026-08"
+  },
+  {
+    "id": "cmp-tb-ref",
+    "companyId": "techbrabo",
+    "name": "Indicação Clientes",
+    "channel": "Indicação",
+    "investment": 1800,
+    "period": "2026-08"
+  }
+]

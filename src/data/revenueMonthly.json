@@ -1,0 +1,26 @@
+[
+  {
+    "companyId": "techbrabo",
+    "period": "2026-05",
+    "recognizedRevenue": 238000,
+    "mrr": 62000
+  },
+  {
+    "companyId": "techbrabo",
+    "period": "2026-06",
+    "recognizedRevenue": 261000,
+    "mrr": 73000
+  },
+  {
+    "companyId": "techbrabo",
+    "period": "2026-07",
+    "recognizedRevenue": 289000,
+    "mrr": 84000
+  },
+  {
+    "companyId": "techbrabo",
+    "period": "2026-08",
+    "recognizedRevenue": 278000,
+    "mrr": 87492
+  }
+]

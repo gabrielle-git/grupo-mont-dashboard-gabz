@@ -1,0 +1,17 @@
+[
+  {
+    "id": "montseguro",
+    "name": "Montseguro",
+    "segment": "Planos de saúde empresariais"
+  },
+  {
+    "id": "prop5",
+    "name": "Prop5",
+    "segment": "Investimento imobiliário / estruturação patrimonial"
+  },
+  {
+    "id": "techbrabo",
+    "name": "TechBrabo",
+    "segment": "Tecnologia B2B"
+  }
+]

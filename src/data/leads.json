@@ -1,0 +1,2981 @@
+[
+  {
+    "id": "lead-ms-001",
+    "companyId": "montseguro",
+    "campaignId": "cmp-ms-meta",
+    "salespersonId": "sp-ms-01",
+    "createdAt": "2026-08-01",
+    "source": "Meta Ads",
+    "status": "active"
+  },
+  {
+    "id": "lead-ms-002",
+    "companyId": "montseguro",
+    "campaignId": "cmp-ms-meta",
+    "salespersonId": "sp-ms-01",
+    "createdAt": "2026-08-02",
+    "source": "Meta Ads",
+    "status": "active"
+  },
+  {
+    "id": "lead-ms-003",
+    "companyId": "montseguro",
+    "campaignId": "cmp-ms-google",
+    "salespersonId": "sp-ms-02",
+    "createdAt": "2026-08-03",
+    "source": "Google Ads",
+    "status": "active"
+  },
+  {
+    "id": "lead-ms-004",
+    "companyId": "montseguro",
+    "campaignId": "cmp-ms-google",
+    "salespersonId": "sp-ms-02",
+    "createdAt": "2026-08-04",
+    "source": "Google Ads",
+    "status": "active"
+  },
+  {
+    "id": "lead-ms-005",
+    "companyId": "montseguro",
+    "campaignId": "cmp-ms-google",
+    "salespersonId": "sp-ms-02",
+    "createdAt": "2026-08-05",
+    "source": "Google Ads",
+    "status": "active"
+  },
+  {
+    "id": "lead-ms-006",
+    "companyId": "montseguro",
+    "campaignId": "cmp-ms-google",
+    "salespersonId": "sp-ms-02",
+    "createdAt": "2026-08-06",
+    "source": "Google Ads",
+    "status": "active"
+  },
+  {
+    "id": "lead-ms-007",
+    "companyId": "montseguro",
+    "campaignId": "cmp-ms-google",
+    "salespersonId": "sp-ms-01",
+    "createdAt": "2026-08-07",
+    "source": "Google Ads",
+    "status": "active"
+  },
+  {
+    "id": "lead-ms-008",
+    "companyId": "montseguro",
+    "campaignId": "cmp-ms-google",
+    "salespersonId": "sp-ms-01",
+    "createdAt": "2026-08-08",
+    "source": "Google Ads",
+    "status": "active"
+  },
+  {
+    "id": "lead-ms-009",
+    "companyId": "montseguro",
+    "campaignId": "cmp-ms-google",
+    "salespersonId": "sp-ms-02",
+    "createdAt": "2026-08-09",
+    "source": "Google Ads",
+    "status": "active"
+  },
+  {
+    "id": "lead-ms-010",
+    "companyId": "montseguro",
+    "campaignId": "cmp-ms-google",
+    "salespersonId": "sp-ms-01",
+    "createdAt": "2026-08-10",
+    "source": "Google Ads",
+    "status": "active"
+  },
+  {
+    "id": "lead-ms-011",
+    "companyId": "montseguro",
+    "campaignId": "cmp-ms-google",
+    "salespersonId": "sp-ms-01",
+    "createdAt": "2026-08-11",
+    "source": "Google Ads",
+    "status": "active"
+  },
+  {
+    "id": "lead-ms-012",
+    "companyId": "montseguro",
+    "campaignId": "cmp-ms-google",
+    "salespersonId": "sp-ms-02",
+    "createdAt": "2026-08-12",
+    "source": "Google Ads",
+    "status": "active"
+  },
+  {
+    "id": "lead-ms-013",
+    "companyId": "montseguro",
+    "campaignId": "cmp-ms-meta",
+    "salespersonId": "sp-ms-02",
+    "createdAt": "2026-08-13",
+    "source": "Meta Ads",
+    "status": "active"
+  },
+  {
+    "id": "lead-ms-014",
+    "companyId": "montseguro",
+    "campaignId": "cmp-ms-meta",
+    "salespersonId": "sp-ms-01",
+    "createdAt": "2026-08-14",
+    "source": "Meta Ads",
+    "status": "active"
+  },
+  {
+    "id": "lead-ms-015",
+    "companyId": "montseguro",
+    "campaignId": "cmp-ms-google",
+    "salespersonId": "sp-ms-02",
+    "createdAt": "2026-08-15",
+    "source": "Google Ads",
+    "status": "active"
+  },
+  {
+    "id": "lead-ms-016",
+    "companyId": "montseguro",
+    "campaignId": "cmp-ms-meta",
+    "salespersonId": "sp-ms-01",
+    "createdAt": "2026-08-16",
+    "source": "Meta Ads",
+    "status": "active"
+  },
+  {
+    "id": "lead-ms-017",
+    "companyId": "montseguro",
+    "campaignId": "cmp-ms-meta",
+    "salespersonId": "sp-ms-02",
+    "createdAt": "2026-08-17",
+    "source": "Meta Ads",
+    "status": "active"
+  },
+  {
+    "id": "lead-ms-018",
+    "companyId": "montseguro",
+    "campaignId": "cmp-ms-meta",
+    "salespersonId": "sp-ms-01",
+    "createdAt": "2026-08-18",
+    "source": "Meta Ads",
+    "status": "active"
+  },
+  {
+    "id": "lead-ms-019",
+    "companyId": "montseguro",
+    "campaignId": "cmp-ms-google",
+    "salespersonId": "sp-ms-01",
+    "createdAt": "2026-08-19",
+    "source": "Google Ads",
+    "status": "active"
+  },
+  {
+    "id": "lead-ms-020",
+    "companyId": "montseguro",
+    "campaignId": "cmp-ms-google",
+    "salespersonId": "sp-ms-01",
+    "createdAt": "2026-08-20",
+    "source": "Google Ads",
+    "status": "active"
+  },
+  {
+    "id": "lead-ms-021",
+    "companyId": "montseguro",
+    "campaignId": "cmp-ms-meta",
+    "salespersonId": "sp-ms-02",
+    "createdAt": "2026-08-21",
+    "source": "Meta Ads",
+    "status": "active"
+  },
+  {
+    "id": "lead-ms-022",
+    "companyId": "montseguro",
+    "campaignId": "cmp-ms-google",
+    "salespersonId": "sp-ms-02",
+    "createdAt": "2026-08-22",
+    "source": "Google Ads",
+    "status": "active"
+  },
+  {
+    "id": "lead-ms-023",
+    "companyId": "montseguro",
+    "campaignId": "cmp-ms-meta",
+    "salespersonId": "sp-ms-02",
+    "createdAt": "2026-08-23",
+    "source": "Meta Ads",
+    "status": "active"
+  },
+  {
+    "id": "lead-ms-024",
+    "companyId": "montseguro",
+    "campaignId": "cmp-ms-meta",
+    "salespersonId": "sp-ms-01",
+    "createdAt": "2026-08-24",
+    "source": "Meta Ads",
+    "status": "active"
+  },
+  {
+    "id": "lead-ms-025",
+    "companyId": "montseguro",
+    "campaignId": "cmp-ms-ref",
+    "salespersonId": "sp-ms-01",
+    "createdAt": "2026-08-25",
+    "source": "Indicação",
+    "status": "active"
+  },
+  {
+    "id": "lead-ms-026",
+    "companyId": "montseguro",
+    "campaignId": "cmp-ms-ref",
+    "salespersonId": "sp-ms-01",
+    "createdAt": "2026-08-26",
+    "source": "Indicação",
+    "status": "active"
+  },
+  {
+    "id": "lead-ms-027",
+    "companyId": "montseguro",
+    "campaignId": "cmp-ms-meta",
+    "salespersonId": "sp-ms-02",
+    "createdAt": "2026-08-27",
+    "source": "Meta Ads",
+    "status": "active"
+  },
+  {
+    "id": "lead-ms-028",
+    "companyId": "montseguro",
+    "campaignId": "cmp-ms-meta",
+    "salespersonId": "sp-ms-01",
+    "createdAt": "2026-08-28",
+    "source": "Meta Ads",
+    "status": "active"
+  },
+  {
+    "id": "lead-ms-029",
+    "companyId": "montseguro",
+    "campaignId": "cmp-ms-google",
+    "salespersonId": "sp-ms-01",
+    "createdAt": "2026-08-01",
+    "source": "Google Ads",
+    "status": "active"
+  },
+  {
+    "id": "lead-ms-030",
+    "companyId": "montseguro",
+    "campaignId": "cmp-ms-meta",
+    "salespersonId": "sp-ms-02",
+    "createdAt": "2026-08-02",
+    "source": "Meta Ads",
+    "status": "active"
+  },
+  {
+    "id": "lead-ms-031",
+    "companyId": "montseguro",
+    "campaignId": "cmp-ms-meta",
+    "salespersonId": "sp-ms-01",
+    "createdAt": "2026-08-03",
+    "source": "Meta Ads",
+    "status": "active"
+  },
+  {
+    "id": "lead-ms-032",
+    "companyId": "montseguro",
+    "campaignId": "cmp-ms-google",
+    "salespersonId": "sp-ms-01",
+    "createdAt": "2026-08-04",
+    "source": "Google Ads",
+    "status": "active"
+  },
+  {
+    "id": "lead-ms-033",
+    "companyId": "montseguro",
+    "campaignId": "cmp-ms-google",
+    "salespersonId": "sp-ms-01",
+    "createdAt": "2026-08-05",
+    "source": "Google Ads",
+    "status": "active"
+  },
+  {
+    "id": "lead-ms-034",
+    "companyId": "montseguro",
+    "campaignId": "cmp-ms-google",
+    "salespersonId": "sp-ms-02",
+    "createdAt": "2026-08-06",
+    "source": "Google Ads",
+    "status": "active"
+  },
+  {
+    "id": "lead-ms-035",
+    "companyId": "montseguro",
+    "campaignId": "cmp-ms-ref",
+    "salespersonId": "sp-ms-01",
+    "createdAt": "2026-08-07",
+    "source": "Indicação",
+    "status": "active"
+  },
+  {
+    "id": "lead-ms-036",
+    "companyId": "montseguro",
+    "campaignId": "cmp-ms-meta",
+    "salespersonId": "sp-ms-02",
+    "createdAt": "2026-08-08",
+    "source": "Meta Ads",
+    "status": "active"
+  },
+  {
+    "id": "lead-ms-037",
+    "companyId": "montseguro",
+    "campaignId": "cmp-ms-google",
+    "salespersonId": "sp-ms-02",
+    "createdAt": "2026-08-09",
+    "source": "Google Ads",
+    "status": "active"
+  },
+  {
+    "id": "lead-ms-038",
+    "companyId": "montseguro",
+    "campaignId": "cmp-ms-meta",
+    "salespersonId": "sp-ms-01",
+    "createdAt": "2026-08-10",
+    "source": "Meta Ads",
+    "status": "active"
+  },
+  {
+    "id": "lead-ms-039",
+    "companyId": "montseguro",
+    "campaignId": "cmp-ms-google",
+    "salespersonId": "sp-ms-02",
+    "createdAt": "2026-08-11",
+    "source": "Google Ads",
+    "status": "active"
+  },
+  {
+    "id": "lead-ms-040",
+    "companyId": "montseguro",
+    "campaignId": "cmp-ms-google",
+    "salespersonId": "sp-ms-02",
+    "createdAt": "2026-08-12",
+    "source": "Google Ads",
+    "status": "active"
+  },
+  {
+    "id": "lead-ms-041",
+    "companyId": "montseguro",
+    "campaignId": "cmp-ms-meta",
+    "salespersonId": "sp-ms-02",
+    "createdAt": "2026-08-13",
+    "source": "Meta Ads",
+    "status": "active"
+  },
+  {
+    "id": "lead-ms-042",
+    "companyId": "montseguro",
+    "campaignId": "cmp-ms-meta",
+    "salespersonId": "sp-ms-01",
+    "createdAt": "2026-08-14",
+    "source": "Meta Ads",
+    "status": "active"
+  },
+  {
+    "id": "lead-ms-043",
+    "companyId": "montseguro",
+    "campaignId": "cmp-ms-google",
+    "salespersonId": "sp-ms-01",
+    "createdAt": "2026-08-15",
+    "source": "Google Ads",
+    "status": "active"
+  },
+  {
+    "id": "lead-ms-044",
+    "companyId": "montseguro",
+    "campaignId": "cmp-ms-meta",
+    "salespersonId": "sp-ms-02",
+    "createdAt": "2026-08-16",
+    "source": "Meta Ads",
+    "status": "active"
+  },
+  {
+    "id": "lead-ms-045",
+    "companyId": "montseguro",
+    "campaignId": "cmp-ms-meta",
+    "salespersonId": "sp-ms-02",
+    "createdAt": "2026-08-17",
+    "source": "Meta Ads",
+    "status": "active"
+  },
+  {
+    "id": "lead-ms-046",
+    "companyId": "montseguro",
+    "campaignId": "cmp-ms-ref",
+    "salespersonId": "sp-ms-02",
+    "createdAt": "2026-08-18",
+    "source": "Indicação",
+    "status": "active"
+  },
+  {
+    "id": "lead-ms-047",
+    "companyId": "montseguro",
+    "campaignId": "cmp-ms-meta",
+    "salespersonId": "sp-ms-02",
+    "createdAt": "2026-08-19",
+    "source": "Meta Ads",
+    "status": "active"
+  },
+  {
+    "id": "lead-ms-048",
+    "companyId": "montseguro",
+    "campaignId": "cmp-ms-meta",
+    "salespersonId": "sp-ms-02",
+    "createdAt": "2026-08-20",
+    "source": "Meta Ads",
+    "status": "active"
+  },
+  {
+    "id": "lead-ms-049",
+    "companyId": "montseguro",
+    "campaignId": "cmp-ms-meta",
+    "salespersonId": "sp-ms-02",
+    "createdAt": "2026-08-21",
+    "source": "Meta Ads",
+    "status": "active"
+  },
+  {
+    "id": "lead-ms-050",
+    "companyId": "montseguro",
+    "campaignId": "cmp-ms-meta",
+    "salespersonId": "sp-ms-01",
+    "createdAt": "2026-08-22",
+    "source": "Meta Ads",
+    "status": "active"
+  },
+  {
+    "id": "lead-ms-051",
+    "companyId": "montseguro",
+    "campaignId": "cmp-ms-meta",
+    "salespersonId": "sp-ms-02",
+    "createdAt": "2026-08-23",
+    "source": "Meta Ads",
+    "status": "active"
+  },
+  {
+    "id": "lead-ms-052",
+    "companyId": "montseguro",
+    "campaignId": "cmp-ms-meta",
+    "salespersonId": "sp-ms-01",
+    "createdAt": "2026-08-24",
+    "source": "Meta Ads",
+    "status": "active"
+  },
+  {
+    "id": "lead-ms-053",
+    "companyId": "montseguro",
+    "campaignId": "cmp-ms-meta",
+    "salespersonId": "sp-ms-01",
+    "createdAt": "2026-08-25",
+    "source": "Meta Ads",
+    "status": "active"
+  },
+  {
+    "id": "lead-ms-054",
+    "companyId": "montseguro",
+    "campaignId": "cmp-ms-google",
+    "salespersonId": "sp-ms-01",
+    "createdAt": "2026-08-26",
+    "source": "Google Ads",
+    "status": "active"
+  },
+  {
+    "id": "lead-ms-055",
+    "companyId": "montseguro",
+    "campaignId": "cmp-ms-meta",
+    "salespersonId": "sp-ms-01",
+    "createdAt": "2026-08-27",
+    "source": "Meta Ads",
+    "status": "active"
+  },
+  {
+    "id": "lead-ms-056",
+    "companyId": "montseguro",
+    "campaignId": "cmp-ms-meta",
+    "salespersonId": "sp-ms-02",
+    "createdAt": "2026-08-28",
+    "source": "Meta Ads",
+    "status": "active"
+  },
+  {
+    "id": "lead-ms-057",
+    "companyId": "montseguro",
+    "campaignId": "cmp-ms-google",
+    "salespersonId": "sp-ms-02",
+    "createdAt": "2026-08-01",
+    "source": "Google Ads",
+    "status": "active"
+  },
+  {
+    "id": "lead-ms-058",
+    "companyId": "montseguro",
+    "campaignId": "cmp-ms-google",
+    "salespersonId": "sp-ms-02",
+    "createdAt": "2026-08-02",
+    "source": "Google Ads",
+    "status": "active"
+  },
+  {
+    "id": "lead-ms-059",
+    "companyId": "montseguro",
+    "campaignId": "cmp-ms-google",
+    "salespersonId": "sp-ms-02",
+    "createdAt": "2026-08-03",
+    "source": "Google Ads",
+    "status": "active"
+  },
+  {
+    "id": "lead-ms-060",
+    "companyId": "montseguro",
+    "campaignId": "cmp-ms-meta",
+    "salespersonId": "sp-ms-02",
+    "createdAt": "2026-08-04",
+    "source": "Meta Ads",
+    "status": "active"
+  },
+  {
+    "id": "lead-ms-061",
+    "companyId": "montseguro",
+    "campaignId": "cmp-ms-ref",
+    "salespersonId": "sp-ms-02",
+    "createdAt": "2026-08-05",
+    "source": "Indicação",
+    "status": "active"
+  },
+  {
+    "id": "lead-ms-062",
+    "companyId": "montseguro",
+    "campaignId": "cmp-ms-google",
+    "salespersonId": "sp-ms-02",
+    "createdAt": "2026-08-06",
+    "source": "Google Ads",
+    "status": "active"
+  },
+  {
+    "id": "lead-ms-063",
+    "companyId": "montseguro",
+    "campaignId": "cmp-ms-meta",
+    "salespersonId": "sp-ms-01",
+    "createdAt": "2026-08-07",
+    "source": "Meta Ads",
+    "status": "active"
+  },
+  {
+    "id": "lead-ms-064",
+    "companyId": "montseguro",
+    "campaignId": "cmp-ms-google",
+    "salespersonId": "sp-ms-02",
+    "createdAt": "2026-08-08",
+    "source": "Google Ads",
+    "status": "active"
+  },
+  {
+    "id": "lead-ms-065",
+    "companyId": "montseguro",
+    "campaignId": "cmp-ms-google",
+    "salespersonId": "sp-ms-02",
+    "createdAt": "2026-08-09",
+    "source": "Google Ads",
+    "status": "active"
+  },
+  {
+    "id": "lead-ms-066",
+    "companyId": "montseguro",
+    "campaignId": "cmp-ms-ref",
+    "salespersonId": "sp-ms-02",
+    "createdAt": "2026-08-10",
+    "source": "Indicação",
+    "status": "active"
+  },
+  {
+    "id": "lead-ms-067",
+    "companyId": "montseguro",
+    "campaignId": "cmp-ms-ref",
+    "salespersonId": "sp-ms-01",
+    "createdAt": "2026-08-11",
+    "source": "Indicação",
+    "status": "active"
+  },
+  {
+    "id": "lead-ms-068",
+    "companyId": "montseguro",
+    "campaignId": "cmp-ms-meta",
+    "salespersonId": "sp-ms-01",
+    "createdAt": "2026-08-12",
+    "source": "Meta Ads",
+    "status": "active"
+  },
+  {
+    "id": "lead-ms-069",
+    "companyId": "montseguro",
+    "campaignId": "cmp-ms-meta",
+    "salespersonId": "sp-ms-01",
+    "createdAt": "2026-08-13",
+    "source": "Meta Ads",
+    "status": "active"
+  },
+  {
+    "id": "lead-ms-070",
+    "companyId": "montseguro",
+    "campaignId": "cmp-ms-meta",
+    "salespersonId": "sp-ms-01",
+    "createdAt": "2026-08-14",
+    "source": "Meta Ads",
+    "status": "active"
+  },
+  {
+    "id": "lead-ms-071",
+    "companyId": "montseguro",
+    "campaignId": "cmp-ms-meta",
+    "salespersonId": "sp-ms-01",
+    "createdAt": "2026-08-15",
+    "source": "Meta Ads",
+    "status": "active"
+  },
+  {
+    "id": "lead-ms-072",
+    "companyId": "montseguro",
+    "campaignId": "cmp-ms-meta",
+    "salespersonId": "sp-ms-02",
+    "createdAt": "2026-08-16",
+    "source": "Meta Ads",
+    "status": "active"
+  },
+  {
+    "id": "lead-ms-073",
+    "companyId": "montseguro",
+    "campaignId": "cmp-ms-meta",
+    "salespersonId": "sp-ms-01",
+    "createdAt": "2026-08-17",
+    "source": "Meta Ads",
+    "status": "active"
+  },
+  {
+    "id": "lead-ms-074",
+    "companyId": "montseguro",
+    "campaignId": "cmp-ms-meta",
+    "salespersonId": "sp-ms-02",
+    "createdAt": "2026-08-18",
+    "source": "Meta Ads",
+    "status": "active"
+  },
+  {
+    "id": "lead-ms-075",
+    "companyId": "montseguro",
+    "campaignId": "cmp-ms-google",
+    "salespersonId": "sp-ms-02",
+    "createdAt": "2026-08-19",
+    "source": "Google Ads",
+    "status": "active"
+  },
+  {
+    "id": "lead-ms-076",
+    "companyId": "montseguro",
+    "campaignId": "cmp-ms-meta",
+    "salespersonId": "sp-ms-01",
+    "createdAt": "2026-08-20",
+    "source": "Meta Ads",
+    "status": "active"
+  },
+  {
+    "id": "lead-ms-077",
+    "companyId": "montseguro",
+    "campaignId": "cmp-ms-meta",
+    "salespersonId": "sp-ms-01",
+    "createdAt": "2026-08-21",
+    "source": "Meta Ads",
+    "status": "active"
+  },
+  {
+    "id": "lead-ms-078",
+    "companyId": "montseguro",
+    "campaignId": "cmp-ms-google",
+    "salespersonId": "sp-ms-02",
+    "createdAt": "2026-08-22",
+    "source": "Google Ads",
+    "status": "active"
+  },
+  {
+    "id": "lead-ms-079",
+    "companyId": "montseguro",
+    "campaignId": "cmp-ms-meta",
+    "salespersonId": "sp-ms-02",
+    "createdAt": "2026-08-23",
+    "source": "Meta Ads",
+    "status": "active"
+  },
+  {
+    "id": "lead-ms-080",
+    "companyId": "montseguro",
+    "campaignId": "cmp-ms-ref",
+    "salespersonId": "sp-ms-01",
+    "createdAt": "2026-08-24",
+    "source": "Indicação",
+    "status": "active"
+  },
+  {
+    "id": "lead-ms-081",
+    "companyId": "montseguro",
+    "campaignId": "cmp-ms-meta",
+    "salespersonId": "sp-ms-02",
+    "createdAt": "2026-08-25",
+    "source": "Meta Ads",
+    "status": "active"
+  },
+  {
+    "id": "lead-ms-082",
+    "companyId": "montseguro",
+    "campaignId": "cmp-ms-ref",
+    "salespersonId": "sp-ms-02",
+    "createdAt": "2026-08-26",
+    "source": "Indicação",
+    "status": "active"
+  },
+  {
+    "id": "lead-ms-083",
+    "companyId": "montseguro",
+    "campaignId": "cmp-ms-meta",
+    "salespersonId": "sp-ms-02",
+    "createdAt": "2026-08-27",
+    "source": "Meta Ads",
+    "status": "active"
+  },
+  {
+    "id": "lead-ms-084",
+    "companyId": "montseguro",
+    "campaignId": "cmp-ms-google",
+    "salespersonId": "sp-ms-01",
+    "createdAt": "2026-08-28",
+    "source": "Google Ads",
+    "status": "active"
+  },
+  {
+    "id": "lead-ms-x01",
+    "companyId": "montseguro",
+    "campaignId": "cmp-ms-google",
+    "salespersonId": "sp-ms-01",
+    "createdAt": "2026-08-04",
+    "source": "Google Ads",
+    "status": "active"
+  },
+  {
+    "id": "lead-ms-x02",
+    "companyId": "montseguro",
+    "campaignId": "cmp-ms-google",
+    "salespersonId": "sp-ms-01",
+    "createdAt": "2026-08-05",
+    "source": "Google Ads",
+    "status": "active"
+  },
+  {
+    "id": "lead-ms-x03",
+    "companyId": "montseguro",
+    "campaignId": "cmp-ms-google",
+    "salespersonId": "sp-ms-01",
+    "createdAt": "2026-08-06",
+    "source": "Google Ads",
+    "status": "active"
+  },
+  {
+    "id": "lead-ms-x04",
+    "companyId": "montseguro",
+    "campaignId": "cmp-ms-google",
+    "salespersonId": "sp-ms-01",
+    "createdAt": "2026-08-07",
+    "source": "Google Ads",
+    "status": "active"
+  },
+  {
+    "id": "lead-ms-x05",
+    "companyId": "montseguro",
+    "campaignId": "cmp-ms-google",
+    "salespersonId": "sp-ms-01",
+    "createdAt": "2026-08-08",
+    "source": "Google Ads",
+    "status": "active"
+  },
+  {
+    "id": "lead-p5-001",
+    "companyId": "prop5",
+    "campaignId": "cmp-p5-webinar",
+    "salespersonId": "sp-p5-01",
+    "createdAt": "2026-08-01",
+    "source": "Evento/Webinar",
+    "country": "Portugal",
+    "status": "active"
+  },
+  {
+    "id": "lead-p5-002",
+    "companyId": "prop5",
+    "campaignId": "cmp-p5-webinar",
+    "salespersonId": "sp-p5-01",
+    "createdAt": "2026-08-03",
+    "source": "Evento/Webinar",
+    "country": "Alemanha",
+    "status": "active"
+  },
+  {
+    "id": "lead-p5-003",
+    "companyId": "prop5",
+    "campaignId": "cmp-p5-linkedin",
+    "salespersonId": "sp-p5-01",
+    "createdAt": "2026-08-05",
+    "source": "LinkedIn",
+    "country": "Portugal",
+    "status": "active"
+  },
+  {
+    "id": "lead-p5-004",
+    "companyId": "prop5",
+    "campaignId": "cmp-p5-google",
+    "salespersonId": "sp-p5-01",
+    "createdAt": "2026-08-07",
+    "source": "Google Ads",
+    "country": "Reino Unido",
+    "status": "active"
+  },
+  {
+    "id": "lead-p5-005",
+    "companyId": "prop5",
+    "campaignId": "cmp-p5-webinar",
+    "salespersonId": "sp-p5-01",
+    "createdAt": "2026-08-09",
+    "source": "Evento/Webinar",
+    "country": "Estados Unidos",
+    "status": "active"
+  },
+  {
+    "id": "lead-p5-006",
+    "companyId": "prop5",
+    "campaignId": "cmp-p5-linkedin",
+    "salespersonId": "sp-p5-02",
+    "createdAt": "2026-08-11",
+    "source": "LinkedIn",
+    "country": "Reino Unido",
+    "status": "active"
+  },
+  {
+    "id": "lead-p5-007",
+    "companyId": "prop5",
+    "campaignId": "cmp-p5-google",
+    "salespersonId": "sp-p5-01",
+    "createdAt": "2026-08-13",
+    "source": "Google Ads",
+    "country": "Reino Unido",
+    "status": "active"
+  },
+  {
+    "id": "lead-p5-008",
+    "companyId": "prop5",
+    "campaignId": "cmp-p5-webinar",
+    "salespersonId": "sp-p5-02",
+    "createdAt": "2026-08-15",
+    "source": "Evento/Webinar",
+    "country": "Reino Unido",
+    "status": "active"
+  },
+  {
+    "id": "lead-p5-009",
+    "companyId": "prop5",
+    "campaignId": "cmp-p5-linkedin",
+    "salespersonId": "sp-p5-02",
+    "createdAt": "2026-08-17",
+    "source": "LinkedIn",
+    "country": "Alemanha",
+    "status": "active"
+  },
+  {
+    "id": "lead-p5-010",
+    "companyId": "prop5",
+    "campaignId": "cmp-p5-google",
+    "salespersonId": "sp-p5-02",
+    "createdAt": "2026-08-19",
+    "source": "Google Ads",
+    "country": "Alemanha",
+    "status": "active"
+  },
+  {
+    "id": "lead-p5-011",
+    "companyId": "prop5",
+    "campaignId": "cmp-p5-google",
+    "salespersonId": "sp-p5-01",
+    "createdAt": "2026-08-21",
+    "source": "Google Ads",
+    "country": "Reino Unido",
+    "status": "active"
+  },
+  {
+    "id": "lead-p5-012",
+    "companyId": "prop5",
+    "campaignId": "cmp-p5-google",
+    "salespersonId": "sp-p5-01",
+    "createdAt": "2026-07-03",
+    "source": "Google Ads",
+    "country": "Canadá",
+    "status": "active"
+  },
+  {
+    "id": "lead-p5-013",
+    "companyId": "prop5",
+    "campaignId": "cmp-p5-linkedin",
+    "salespersonId": "sp-p5-01",
+    "createdAt": "2026-08-25",
+    "source": "LinkedIn",
+    "country": "Estados Unidos",
+    "status": "active"
+  },
+  {
+    "id": "lead-p5-014",
+    "companyId": "prop5",
+    "campaignId": "cmp-p5-webinar",
+    "salespersonId": "sp-p5-02",
+    "createdAt": "2026-08-27",
+    "source": "Evento/Webinar",
+    "country": "Reino Unido",
+    "status": "active"
+  },
+  {
+    "id": "lead-p5-015",
+    "companyId": "prop5",
+    "campaignId": "cmp-p5-webinar",
+    "salespersonId": "sp-p5-01",
+    "createdAt": "2026-08-01",
+    "source": "Evento/Webinar",
+    "country": "Alemanha",
+    "status": "active"
+  },
+  {
+    "id": "lead-p5-016",
+    "companyId": "prop5",
+    "campaignId": "cmp-p5-webinar",
+    "salespersonId": "sp-p5-02",
+    "createdAt": "2026-06-15",
+    "source": "Evento/Webinar",
+    "country": "Canadá",
+    "status": "active"
+  },
+  {
+    "id": "lead-p5-017",
+    "companyId": "prop5",
+    "campaignId": "cmp-p5-linkedin",
+    "salespersonId": "sp-p5-01",
+    "createdAt": "2026-08-05",
+    "source": "LinkedIn",
+    "country": "Estados Unidos",
+    "status": "active"
+  },
+  {
+    "id": "lead-p5-018",
+    "companyId": "prop5",
+    "campaignId": "cmp-p5-linkedin",
+    "salespersonId": "sp-p5-02",
+    "createdAt": "2026-08-07",
+    "source": "LinkedIn",
+    "country": "Alemanha",
+    "status": "active"
+  },
+  {
+    "id": "lead-p5-019",
+    "companyId": "prop5",
+    "campaignId": "cmp-p5-linkedin",
+    "salespersonId": "sp-p5-02",
+    "createdAt": "2026-08-09",
+    "source": "LinkedIn",
+    "country": "Portugal",
+    "status": "active"
+  },
+  {
+    "id": "lead-p5-020",
+    "companyId": "prop5",
+    "campaignId": "cmp-p5-linkedin",
+    "salespersonId": "sp-p5-01",
+    "createdAt": "2026-08-11",
+    "source": "LinkedIn",
+    "country": "Alemanha",
+    "status": "active"
+  },
+  {
+    "id": "lead-p5-021",
+    "companyId": "prop5",
+    "campaignId": "cmp-p5-webinar",
+    "salespersonId": "sp-p5-01",
+    "createdAt": "2026-06-28",
+    "source": "Evento/Webinar",
+    "country": "Canadá",
+    "status": "active"
+  },
+  {
+    "id": "lead-p5-022",
+    "companyId": "prop5",
+    "campaignId": "cmp-p5-webinar",
+    "salespersonId": "sp-p5-02",
+    "createdAt": "2026-08-15",
+    "source": "Evento/Webinar",
+    "country": "Canadá",
+    "status": "active"
+  },
+  {
+    "id": "lead-p5-023",
+    "companyId": "prop5",
+    "campaignId": "cmp-p5-google",
+    "salespersonId": "sp-p5-02",
+    "createdAt": "2026-08-17",
+    "source": "Google Ads",
+    "country": "Reino Unido",
+    "status": "active"
+  },
+  {
+    "id": "lead-p5-024",
+    "companyId": "prop5",
+    "campaignId": "cmp-p5-webinar",
+    "salespersonId": "sp-p5-02",
+    "createdAt": "2026-08-19",
+    "source": "Evento/Webinar",
+    "country": "Portugal",
+    "status": "active"
+  },
+  {
+    "id": "lead-p5-025",
+    "companyId": "prop5",
+    "campaignId": "cmp-p5-google",
+    "salespersonId": "sp-p5-02",
+    "createdAt": "2026-08-21",
+    "source": "Google Ads",
+    "country": "Portugal",
+    "status": "active"
+  },
+  {
+    "id": "lead-p5-026",
+    "companyId": "prop5",
+    "campaignId": "cmp-p5-google",
+    "salespersonId": "sp-p5-01",
+    "createdAt": "2026-08-23",
+    "source": "Google Ads",
+    "country": "Alemanha",
+    "status": "active"
+  },
+  {
+    "id": "lead-p5-027",
+    "companyId": "prop5",
+    "campaignId": "cmp-p5-webinar",
+    "salespersonId": "sp-p5-01",
+    "createdAt": "2026-07-01",
+    "source": "Evento/Webinar",
+    "country": "Canadá",
+    "status": "active"
+  },
+  {
+    "id": "lead-p5-028",
+    "companyId": "prop5",
+    "campaignId": "cmp-p5-webinar",
+    "salespersonId": "sp-p5-01",
+    "createdAt": "2026-08-27",
+    "source": "Evento/Webinar",
+    "country": "Portugal",
+    "status": "active"
+  },
+  {
+    "id": "lead-p5-029",
+    "companyId": "prop5",
+    "campaignId": "cmp-p5-google",
+    "salespersonId": "sp-p5-01",
+    "createdAt": "2026-06-20",
+    "source": "Google Ads",
+    "country": "Reino Unido",
+    "status": "active"
+  },
+  {
+    "id": "lead-p5-030",
+    "companyId": "prop5",
+    "campaignId": "cmp-p5-google",
+    "salespersonId": "sp-p5-02",
+    "createdAt": "2026-08-03",
+    "source": "Google Ads",
+    "country": "Alemanha",
+    "status": "active"
+  },
+  {
+    "id": "lead-p5-031",
+    "companyId": "prop5",
+    "campaignId": "cmp-p5-webinar",
+    "salespersonId": "sp-p5-02",
+    "createdAt": "2026-06-25",
+    "source": "Evento/Webinar",
+    "country": "Estados Unidos",
+    "status": "active"
+  },
+  {
+    "id": "lead-p5-032",
+    "companyId": "prop5",
+    "campaignId": "cmp-p5-google",
+    "salespersonId": "sp-p5-01",
+    "createdAt": "2026-08-07",
+    "source": "Google Ads",
+    "country": "Alemanha",
+    "status": "active"
+  },
+  {
+    "id": "lead-p5-033",
+    "companyId": "prop5",
+    "campaignId": "cmp-p5-google",
+    "salespersonId": "sp-p5-01",
+    "createdAt": "2026-08-09",
+    "source": "Google Ads",
+    "country": "Reino Unido",
+    "status": "active"
+  },
+  {
+    "id": "lead-p5-034",
+    "companyId": "prop5",
+    "campaignId": "cmp-p5-webinar",
+    "salespersonId": "sp-p5-01",
+    "createdAt": "2026-08-11",
+    "source": "Evento/Webinar",
+    "country": "Alemanha",
+    "status": "active"
+  },
+  {
+    "id": "lead-p5-035",
+    "companyId": "prop5",
+    "campaignId": "cmp-p5-google",
+    "salespersonId": "sp-p5-01",
+    "createdAt": "2026-08-13",
+    "source": "Google Ads",
+    "country": "Canadá",
+    "status": "active"
+  },
+  {
+    "id": "lead-p5-036",
+    "companyId": "prop5",
+    "campaignId": "cmp-p5-linkedin",
+    "salespersonId": "sp-p5-02",
+    "createdAt": "2026-08-15",
+    "source": "LinkedIn",
+    "country": "Estados Unidos",
+    "status": "active"
+  },
+  {
+    "id": "lead-p5-037",
+    "companyId": "prop5",
+    "campaignId": "cmp-p5-linkedin",
+    "salespersonId": "sp-p5-02",
+    "createdAt": "2026-08-17",
+    "source": "LinkedIn",
+    "country": "Canadá",
+    "status": "active"
+  },
+  {
+    "id": "lead-p5-038",
+    "companyId": "prop5",
+    "campaignId": "cmp-p5-google",
+    "salespersonId": "sp-p5-01",
+    "createdAt": "2026-08-19",
+    "source": "Google Ads",
+    "country": "Reino Unido",
+    "status": "active"
+  },
+  {
+    "id": "lead-p5-039",
+    "companyId": "prop5",
+    "campaignId": "cmp-p5-google",
+    "salespersonId": "sp-p5-01",
+    "createdAt": "2026-08-21",
+    "source": "Google Ads",
+    "country": "Canadá",
+    "status": "active"
+  },
+  {
+    "id": "lead-p5-040",
+    "companyId": "prop5",
+    "campaignId": "cmp-p5-webinar",
+    "salespersonId": "sp-p5-02",
+    "createdAt": "2026-08-23",
+    "source": "Evento/Webinar",
+    "country": "Estados Unidos",
+    "status": "active"
+  },
+  {
+    "id": "lead-p5-041",
+    "companyId": "prop5",
+    "campaignId": "cmp-p5-google",
+    "salespersonId": "sp-p5-02",
+    "createdAt": "2026-08-25",
+    "source": "Google Ads",
+    "country": "Portugal",
+    "status": "active"
+  },
+  {
+    "id": "lead-p5-042",
+    "companyId": "prop5",
+    "campaignId": "cmp-p5-webinar",
+    "salespersonId": "sp-p5-02",
+    "createdAt": "2026-08-27",
+    "source": "Evento/Webinar",
+    "country": "Reino Unido",
+    "status": "active"
+  },
+  {
+    "id": "lead-p5-x01",
+    "companyId": "prop5",
+    "campaignId": "cmp-p5-webinar",
+    "salespersonId": "sp-p5-01",
+    "createdAt": "2026-08-05",
+    "source": "Evento/Webinar",
+    "country": "Estados Unidos",
+    "status": "active"
+  },
+  {
+    "id": "lead-p5-x02",
+    "companyId": "prop5",
+    "campaignId": "cmp-p5-google",
+    "salespersonId": "sp-p5-02",
+    "createdAt": "2026-08-06",
+    "source": "Google Ads",
+    "country": "Portugal",
+    "status": "active"
+  },
+  {
+    "id": "lead-p5-x03",
+    "companyId": "prop5",
+    "campaignId": "cmp-p5-linkedin",
+    "salespersonId": "sp-p5-01",
+    "createdAt": "2026-08-07",
+    "source": "LinkedIn",
+    "country": "Reino Unido",
+    "status": "active"
+  },
+  {
+    "id": "lead-tb-001",
+    "companyId": "techbrabo",
+    "campaignId": "cmp-tb-outbound",
+    "salespersonId": "sp-tb-01",
+    "createdAt": "2026-08-01",
+    "source": "Outbound",
+    "status": "active"
+  },
+  {
+    "id": "lead-tb-002",
+    "companyId": "techbrabo",
+    "campaignId": "cmp-tb-outbound",
+    "salespersonId": "sp-tb-01",
+    "createdAt": "2026-08-04",
+    "source": "Outbound",
+    "status": "active"
+  },
+  {
+    "id": "lead-tb-003",
+    "companyId": "techbrabo",
+    "campaignId": "cmp-tb-linkedin",
+    "salespersonId": "sp-tb-01",
+    "createdAt": "2026-08-07",
+    "source": "LinkedIn",
+    "status": "active"
+  },
+  {
+    "id": "lead-tb-004",
+    "companyId": "techbrabo",
+    "campaignId": "cmp-tb-outbound",
+    "salespersonId": "sp-tb-01",
+    "createdAt": "2026-08-10",
+    "source": "Outbound",
+    "status": "active"
+  },
+  {
+    "id": "lead-tb-005",
+    "companyId": "techbrabo",
+    "campaignId": "cmp-tb-outbound",
+    "salespersonId": "sp-tb-02",
+    "createdAt": "2026-08-13",
+    "source": "Outbound",
+    "status": "active"
+  },
+  {
+    "id": "lead-tb-006",
+    "companyId": "techbrabo",
+    "campaignId": "cmp-tb-linkedin",
+    "salespersonId": "sp-tb-02",
+    "createdAt": "2026-08-16",
+    "source": "LinkedIn",
+    "status": "active"
+  },
+  {
+    "id": "lead-tb-007",
+    "companyId": "techbrabo",
+    "campaignId": "cmp-tb-linkedin",
+    "salespersonId": "sp-tb-01",
+    "createdAt": "2026-08-19",
+    "source": "LinkedIn",
+    "status": "active"
+  },
+  {
+    "id": "lead-tb-008",
+    "companyId": "techbrabo",
+    "campaignId": "cmp-tb-outbound",
+    "salespersonId": "sp-tb-01",
+    "createdAt": "2026-08-22",
+    "source": "Outbound",
+    "status": "active"
+  },
+  {
+    "id": "lead-tb-009",
+    "companyId": "techbrabo",
+    "campaignId": "cmp-tb-linkedin",
+    "salespersonId": "sp-tb-01",
+    "createdAt": "2026-08-25",
+    "source": "LinkedIn",
+    "status": "active"
+  },
+  {
+    "id": "lead-tb-010",
+    "companyId": "techbrabo",
+    "campaignId": "cmp-tb-outbound",
+    "salespersonId": "sp-tb-02",
+    "createdAt": "2026-08-28",
+    "source": "Outbound",
+    "status": "active"
+  },
+  {
+    "id": "lead-tb-011",
+    "companyId": "techbrabo",
+    "campaignId": "cmp-tb-outbound",
+    "salespersonId": "sp-tb-01",
+    "createdAt": "2026-08-03",
+    "source": "Outbound",
+    "status": "active"
+  },
+  {
+    "id": "lead-tb-012",
+    "companyId": "techbrabo",
+    "campaignId": "cmp-tb-outbound",
+    "salespersonId": "sp-tb-01",
+    "createdAt": "2026-08-06",
+    "source": "Outbound",
+    "status": "active"
+  },
+  {
+    "id": "lead-tb-013",
+    "companyId": "techbrabo",
+    "campaignId": "cmp-tb-outbound",
+    "salespersonId": "sp-tb-01",
+    "createdAt": "2026-08-09",
+    "source": "Outbound",
+    "status": "active"
+  },
+  {
+    "id": "lead-tb-014",
+    "companyId": "techbrabo",
+    "campaignId": "cmp-tb-linkedin",
+    "salespersonId": "sp-tb-01",
+    "createdAt": "2026-08-12",
+    "source": "LinkedIn",
+    "status": "active"
+  },
+  {
+    "id": "lead-tb-015",
+    "companyId": "techbrabo",
+    "campaignId": "cmp-tb-outbound",
+    "salespersonId": "sp-tb-02",
+    "createdAt": "2026-08-15",
+    "source": "Outbound",
+    "status": "active"
+  },
+  {
+    "id": "lead-tb-016",
+    "companyId": "techbrabo",
+    "campaignId": "cmp-tb-outbound",
+    "salespersonId": "sp-tb-02",
+    "createdAt": "2026-08-18",
+    "source": "Outbound",
+    "status": "active"
+  },
+  {
+    "id": "lead-tb-017",
+    "companyId": "techbrabo",
+    "campaignId": "cmp-tb-linkedin",
+    "salespersonId": "sp-tb-02",
+    "createdAt": "2026-08-21",
+    "source": "LinkedIn",
+    "status": "active"
+  },
+  {
+    "id": "lead-tb-018",
+    "companyId": "techbrabo",
+    "campaignId": "cmp-tb-outbound",
+    "salespersonId": "sp-tb-02",
+    "createdAt": "2026-08-24",
+    "source": "Outbound",
+    "status": "active"
+  },
+  {
+    "id": "lead-tb-019",
+    "companyId": "techbrabo",
+    "campaignId": "cmp-tb-linkedin",
+    "salespersonId": "sp-tb-01",
+    "createdAt": "2026-08-27",
+    "source": "LinkedIn",
+    "status": "active"
+  },
+  {
+    "id": "lead-tb-020",
+    "companyId": "techbrabo",
+    "campaignId": "cmp-tb-outbound",
+    "salespersonId": "sp-tb-02",
+    "createdAt": "2026-08-02",
+    "source": "Outbound",
+    "status": "active"
+  },
+  {
+    "id": "lead-tb-021",
+    "companyId": "techbrabo",
+    "campaignId": "cmp-tb-outbound",
+    "salespersonId": "sp-tb-01",
+    "createdAt": "2026-08-05",
+    "source": "Outbound",
+    "status": "active"
+  },
+  {
+    "id": "lead-tb-022",
+    "companyId": "techbrabo",
+    "campaignId": "cmp-tb-outbound",
+    "salespersonId": "sp-tb-01",
+    "createdAt": "2026-08-08",
+    "source": "Outbound",
+    "status": "active"
+  },
+  {
+    "id": "lead-tb-023",
+    "companyId": "techbrabo",
+    "campaignId": "cmp-tb-outbound",
+    "salespersonId": "sp-tb-01",
+    "createdAt": "2026-08-11",
+    "source": "Outbound",
+    "status": "active"
+  },
+  {
+    "id": "lead-tb-024",
+    "companyId": "techbrabo",
+    "campaignId": "cmp-tb-linkedin",
+    "salespersonId": "sp-tb-02",
+    "createdAt": "2026-08-14",
+    "source": "LinkedIn",
+    "status": "active"
+  },
+  {
+    "id": "lead-tb-025",
+    "companyId": "techbrabo",
+    "campaignId": "cmp-tb-linkedin",
+    "salespersonId": "sp-tb-02",
+    "createdAt": "2026-08-17",
+    "source": "LinkedIn",
+    "status": "active"
+  },
+  {
+    "id": "lead-tb-026",
+    "companyId": "techbrabo",
+    "campaignId": "cmp-tb-ref",
+    "salespersonId": "sp-tb-02",
+    "createdAt": "2026-08-20",
+    "source": "Indicação",
+    "status": "active"
+  },
+  {
+    "id": "lead-tb-027",
+    "companyId": "techbrabo",
+    "campaignId": "cmp-tb-outbound",
+    "salespersonId": "sp-tb-02",
+    "createdAt": "2026-08-23",
+    "source": "Outbound",
+    "status": "active"
+  },
+  {
+    "id": "lead-tb-028",
+    "companyId": "techbrabo",
+    "campaignId": "cmp-tb-linkedin",
+    "salespersonId": "sp-tb-02",
+    "createdAt": "2026-08-26",
+    "source": "LinkedIn",
+    "status": "active"
+  },
+  {
+    "id": "lead-tb-029",
+    "companyId": "techbrabo",
+    "campaignId": "cmp-tb-outbound",
+    "salespersonId": "sp-tb-02",
+    "createdAt": "2026-08-01",
+    "source": "Outbound",
+    "status": "active"
+  },
+  {
+    "id": "lead-tb-030",
+    "companyId": "techbrabo",
+    "campaignId": "cmp-tb-ref",
+    "salespersonId": "sp-tb-02",
+    "createdAt": "2026-08-04",
+    "source": "Indicação",
+    "status": "active"
+  },
+  {
+    "id": "lead-tb-031",
+    "companyId": "techbrabo",
+    "campaignId": "cmp-tb-linkedin",
+    "salespersonId": "sp-tb-01",
+    "createdAt": "2026-08-07",
+    "source": "LinkedIn",
+    "status": "active"
+  },
+  {
+    "id": "lead-tb-032",
+    "companyId": "techbrabo",
+    "campaignId": "cmp-tb-ref",
+    "salespersonId": "sp-tb-02",
+    "createdAt": "2026-08-10",
+    "source": "Indicação",
+    "status": "active"
+  },
+  {
+    "id": "lead-tb-033",
+    "companyId": "techbrabo",
+    "campaignId": "cmp-tb-linkedin",
+    "salespersonId": "sp-tb-02",
+    "createdAt": "2026-08-13",
+    "source": "LinkedIn",
+    "status": "active"
+  },
+  {
+    "id": "lead-tb-034",
+    "companyId": "techbrabo",
+    "campaignId": "cmp-tb-linkedin",
+    "salespersonId": "sp-tb-02",
+    "createdAt": "2026-08-16",
+    "source": "LinkedIn",
+    "status": "active"
+  },
+  {
+    "id": "lead-tb-035",
+    "companyId": "techbrabo",
+    "campaignId": "cmp-tb-outbound",
+    "salespersonId": "sp-tb-01",
+    "createdAt": "2026-08-19",
+    "source": "Outbound",
+    "status": "active"
+  },
+  {
+    "id": "lead-tb-036",
+    "companyId": "techbrabo",
+    "campaignId": "cmp-tb-linkedin",
+    "salespersonId": "sp-tb-02",
+    "createdAt": "2026-08-22",
+    "source": "LinkedIn",
+    "status": "active"
+  },
+  {
+    "id": "lead-tb-x01",
+    "companyId": "techbrabo",
+    "campaignId": "cmp-tb-ref",
+    "salespersonId": "sp-tb-01",
+    "createdAt": "2026-06-21",
+    "source": "Indicação",
+    "status": "active"
+  },
+  {
+    "id": "lead-tb-x02",
+    "companyId": "techbrabo",
+    "campaignId": "cmp-tb-outbound",
+    "salespersonId": "sp-tb-02",
+    "createdAt": "2026-06-30",
+    "source": "Outbound",
+    "status": "active"
+  },
+  {
+    "id": "lead-tb-x03",
+    "companyId": "techbrabo",
+    "campaignId": "cmp-tb-outbound",
+    "salespersonId": "sp-tb-01",
+    "createdAt": "2026-07-20",
+    "source": "Outbound",
+    "status": "active"
+  },
+  {
+    "id": "lead-ms-ref-001",
+    "companyId": "montseguro",
+    "campaignId": "cmp-ms-ref",
+    "salespersonId": "sp-ms-01",
+    "createdAt": "2026-08-05",
+    "source": "Indicação",
+    "status": "disqualified"
+  },
+  {
+    "id": "lead-ms-ref-002",
+    "companyId": "montseguro",
+    "campaignId": "cmp-ms-ref",
+    "salespersonId": "sp-ms-01",
+    "createdAt": "2026-08-06",
+    "source": "Indicação",
+    "status": "disqualified"
+  },
+  {
+    "id": "lead-ms-ref-003",
+    "companyId": "montseguro",
+    "campaignId": "cmp-ms-ref",
+    "salespersonId": "sp-ms-01",
+    "createdAt": "2026-08-07",
+    "source": "Indicação",
+    "status": "disqualified"
+  },
+  {
+    "id": "lead-ms-goog-004",
+    "companyId": "montseguro",
+    "campaignId": "cmp-ms-google",
+    "salespersonId": "sp-ms-01",
+    "createdAt": "2026-08-01",
+    "source": "Google Ads",
+    "status": "disqualified"
+  },
+  {
+    "id": "lead-ms-goog-005",
+    "companyId": "montseguro",
+    "campaignId": "cmp-ms-google",
+    "salespersonId": "sp-ms-02",
+    "createdAt": "2026-08-02",
+    "source": "Google Ads",
+    "status": "disqualified"
+  },
+  {
+    "id": "lead-ms-goog-006",
+    "companyId": "montseguro",
+    "campaignId": "cmp-ms-google",
+    "salespersonId": "sp-ms-01",
+    "createdAt": "2026-08-03",
+    "source": "Google Ads",
+    "status": "disqualified"
+  },
+  {
+    "id": "lead-ms-goog-007",
+    "companyId": "montseguro",
+    "campaignId": "cmp-ms-google",
+    "salespersonId": "sp-ms-02",
+    "createdAt": "2026-08-04",
+    "source": "Google Ads",
+    "status": "disqualified"
+  },
+  {
+    "id": "lead-ms-goog-008",
+    "companyId": "montseguro",
+    "campaignId": "cmp-ms-google",
+    "salespersonId": "sp-ms-01",
+    "createdAt": "2026-08-05",
+    "source": "Google Ads",
+    "status": "disqualified"
+  },
+  {
+    "id": "lead-ms-goog-009",
+    "companyId": "montseguro",
+    "campaignId": "cmp-ms-google",
+    "salespersonId": "sp-ms-02",
+    "createdAt": "2026-08-06",
+    "source": "Google Ads",
+    "status": "disqualified"
+  },
+  {
+    "id": "lead-ms-goog-010",
+    "companyId": "montseguro",
+    "campaignId": "cmp-ms-google",
+    "salespersonId": "sp-ms-01",
+    "createdAt": "2026-08-07",
+    "source": "Google Ads",
+    "status": "disqualified"
+  },
+  {
+    "id": "lead-ms-goog-011",
+    "companyId": "montseguro",
+    "campaignId": "cmp-ms-google",
+    "salespersonId": "sp-ms-02",
+    "createdAt": "2026-08-08",
+    "source": "Google Ads",
+    "status": "disqualified"
+  },
+  {
+    "id": "lead-ms-goog-012",
+    "companyId": "montseguro",
+    "campaignId": "cmp-ms-google",
+    "salespersonId": "sp-ms-01",
+    "createdAt": "2026-08-09",
+    "source": "Google Ads",
+    "status": "disqualified"
+  },
+  {
+    "id": "lead-ms-goog-013",
+    "companyId": "montseguro",
+    "campaignId": "cmp-ms-google",
+    "salespersonId": "sp-ms-02",
+    "createdAt": "2026-08-10",
+    "source": "Google Ads",
+    "status": "disqualified"
+  },
+  {
+    "id": "lead-ms-goog-014",
+    "companyId": "montseguro",
+    "campaignId": "cmp-ms-google",
+    "salespersonId": "sp-ms-01",
+    "createdAt": "2026-08-11",
+    "source": "Google Ads",
+    "status": "disqualified"
+  },
+  {
+    "id": "lead-ms-goog-015",
+    "companyId": "montseguro",
+    "campaignId": "cmp-ms-google",
+    "salespersonId": "sp-ms-02",
+    "createdAt": "2026-08-12",
+    "source": "Google Ads",
+    "status": "disqualified"
+  },
+  {
+    "id": "lead-ms-goog-016",
+    "companyId": "montseguro",
+    "campaignId": "cmp-ms-google",
+    "salespersonId": "sp-ms-01",
+    "createdAt": "2026-08-13",
+    "source": "Google Ads",
+    "status": "disqualified"
+  },
+  {
+    "id": "lead-ms-goog-017",
+    "companyId": "montseguro",
+    "campaignId": "cmp-ms-google",
+    "salespersonId": "sp-ms-02",
+    "createdAt": "2026-08-14",
+    "source": "Google Ads",
+    "status": "disqualified"
+  },
+  {
+    "id": "lead-ms-goog-018",
+    "companyId": "montseguro",
+    "campaignId": "cmp-ms-google",
+    "salespersonId": "sp-ms-01",
+    "createdAt": "2026-08-15",
+    "source": "Google Ads",
+    "status": "disqualified"
+  },
+  {
+    "id": "lead-ms-goog-019",
+    "companyId": "montseguro",
+    "campaignId": "cmp-ms-google",
+    "salespersonId": "sp-ms-02",
+    "createdAt": "2026-08-16",
+    "source": "Google Ads",
+    "status": "disqualified"
+  },
+  {
+    "id": "lead-ms-goog-020",
+    "companyId": "montseguro",
+    "campaignId": "cmp-ms-google",
+    "salespersonId": "sp-ms-01",
+    "createdAt": "2026-08-17",
+    "source": "Google Ads",
+    "status": "disqualified"
+  },
+  {
+    "id": "lead-ms-goog-021",
+    "companyId": "montseguro",
+    "campaignId": "cmp-ms-google",
+    "salespersonId": "sp-ms-02",
+    "createdAt": "2026-08-18",
+    "source": "Google Ads",
+    "status": "disqualified"
+  },
+  {
+    "id": "lead-ms-goog-022",
+    "companyId": "montseguro",
+    "campaignId": "cmp-ms-google",
+    "salespersonId": "sp-ms-01",
+    "createdAt": "2026-08-19",
+    "source": "Google Ads",
+    "status": "disqualified"
+  },
+  {
+    "id": "lead-ms-goog-023",
+    "companyId": "montseguro",
+    "campaignId": "cmp-ms-google",
+    "salespersonId": "sp-ms-02",
+    "createdAt": "2026-08-20",
+    "source": "Google Ads",
+    "status": "disqualified"
+  },
+  {
+    "id": "lead-ms-goog-024",
+    "companyId": "montseguro",
+    "campaignId": "cmp-ms-google",
+    "salespersonId": "sp-ms-01",
+    "createdAt": "2026-08-21",
+    "source": "Google Ads",
+    "status": "disqualified"
+  },
+  {
+    "id": "lead-ms-goog-025",
+    "companyId": "montseguro",
+    "campaignId": "cmp-ms-google",
+    "salespersonId": "sp-ms-02",
+    "createdAt": "2026-08-22",
+    "source": "Google Ads",
+    "status": "disqualified"
+  },
+  {
+    "id": "lead-ms-meta-026",
+    "companyId": "montseguro",
+    "campaignId": "cmp-ms-meta",
+    "salespersonId": "sp-ms-02",
+    "createdAt": "2026-08-01",
+    "source": "Meta Ads",
+    "status": "disqualified"
+  },
+  {
+    "id": "lead-ms-meta-027",
+    "companyId": "montseguro",
+    "campaignId": "cmp-ms-meta",
+    "salespersonId": "sp-ms-01",
+    "createdAt": "2026-08-02",
+    "source": "Meta Ads",
+    "status": "disqualified"
+  },
+  {
+    "id": "lead-ms-meta-028",
+    "companyId": "montseguro",
+    "campaignId": "cmp-ms-meta",
+    "salespersonId": "sp-ms-02",
+    "createdAt": "2026-08-03",
+    "source": "Meta Ads",
+    "status": "disqualified"
+  },
+  {
+    "id": "lead-ms-meta-029",
+    "companyId": "montseguro",
+    "campaignId": "cmp-ms-meta",
+    "salespersonId": "sp-ms-01",
+    "createdAt": "2026-08-04",
+    "source": "Meta Ads",
+    "status": "disqualified"
+  },
+  {
+    "id": "lead-ms-meta-030",
+    "companyId": "montseguro",
+    "campaignId": "cmp-ms-meta",
+    "salespersonId": "sp-ms-02",
+    "createdAt": "2026-08-05",
+    "source": "Meta Ads",
+    "status": "disqualified"
+  },
+  {
+    "id": "lead-ms-meta-031",
+    "companyId": "montseguro",
+    "campaignId": "cmp-ms-meta",
+    "salespersonId": "sp-ms-01",
+    "createdAt": "2026-08-06",
+    "source": "Meta Ads",
+    "status": "disqualified"
+  },
+  {
+    "id": "lead-ms-meta-032",
+    "companyId": "montseguro",
+    "campaignId": "cmp-ms-meta",
+    "salespersonId": "sp-ms-02",
+    "createdAt": "2026-08-07",
+    "source": "Meta Ads",
+    "status": "disqualified"
+  },
+  {
+    "id": "lead-ms-meta-033",
+    "companyId": "montseguro",
+    "campaignId": "cmp-ms-meta",
+    "salespersonId": "sp-ms-01",
+    "createdAt": "2026-08-08",
+    "source": "Meta Ads",
+    "status": "disqualified"
+  },
+  {
+    "id": "lead-ms-meta-034",
+    "companyId": "montseguro",
+    "campaignId": "cmp-ms-meta",
+    "salespersonId": "sp-ms-02",
+    "createdAt": "2026-08-09",
+    "source": "Meta Ads",
+    "status": "disqualified"
+  },
+  {
+    "id": "lead-ms-meta-035",
+    "companyId": "montseguro",
+    "campaignId": "cmp-ms-meta",
+    "salespersonId": "sp-ms-01",
+    "createdAt": "2026-08-10",
+    "source": "Meta Ads",
+    "status": "disqualified"
+  },
+  {
+    "id": "lead-ms-meta-036",
+    "companyId": "montseguro",
+    "campaignId": "cmp-ms-meta",
+    "salespersonId": "sp-ms-02",
+    "createdAt": "2026-08-11",
+    "source": "Meta Ads",
+    "status": "disqualified"
+  },
+  {
+    "id": "lead-ms-meta-037",
+    "companyId": "montseguro",
+    "campaignId": "cmp-ms-meta",
+    "salespersonId": "sp-ms-01",
+    "createdAt": "2026-08-12",
+    "source": "Meta Ads",
+    "status": "disqualified"
+  },
+  {
+    "id": "lead-ms-meta-038",
+    "companyId": "montseguro",
+    "campaignId": "cmp-ms-meta",
+    "salespersonId": "sp-ms-02",
+    "createdAt": "2026-08-13",
+    "source": "Meta Ads",
+    "status": "disqualified"
+  },
+  {
+    "id": "lead-ms-meta-039",
+    "companyId": "montseguro",
+    "campaignId": "cmp-ms-meta",
+    "salespersonId": "sp-ms-01",
+    "createdAt": "2026-08-14",
+    "source": "Meta Ads",
+    "status": "disqualified"
+  },
+  {
+    "id": "lead-ms-meta-040",
+    "companyId": "montseguro",
+    "campaignId": "cmp-ms-meta",
+    "salespersonId": "sp-ms-02",
+    "createdAt": "2026-08-15",
+    "source": "Meta Ads",
+    "status": "disqualified"
+  },
+  {
+    "id": "lead-ms-meta-041",
+    "companyId": "montseguro",
+    "campaignId": "cmp-ms-meta",
+    "salespersonId": "sp-ms-01",
+    "createdAt": "2026-08-16",
+    "source": "Meta Ads",
+    "status": "disqualified"
+  },
+  {
+    "id": "lead-ms-meta-042",
+    "companyId": "montseguro",
+    "campaignId": "cmp-ms-meta",
+    "salespersonId": "sp-ms-02",
+    "createdAt": "2026-08-17",
+    "source": "Meta Ads",
+    "status": "disqualified"
+  },
+  {
+    "id": "lead-ms-meta-043",
+    "companyId": "montseguro",
+    "campaignId": "cmp-ms-meta",
+    "salespersonId": "sp-ms-01",
+    "createdAt": "2026-08-18",
+    "source": "Meta Ads",
+    "status": "disqualified"
+  },
+  {
+    "id": "lead-ms-meta-044",
+    "companyId": "montseguro",
+    "campaignId": "cmp-ms-meta",
+    "salespersonId": "sp-ms-02",
+    "createdAt": "2026-08-19",
+    "source": "Meta Ads",
+    "status": "disqualified"
+  },
+  {
+    "id": "lead-ms-meta-045",
+    "companyId": "montseguro",
+    "campaignId": "cmp-ms-meta",
+    "salespersonId": "sp-ms-01",
+    "createdAt": "2026-08-20",
+    "source": "Meta Ads",
+    "status": "disqualified"
+  },
+  {
+    "id": "lead-ms-meta-046",
+    "companyId": "montseguro",
+    "campaignId": "cmp-ms-meta",
+    "salespersonId": "sp-ms-02",
+    "createdAt": "2026-08-21",
+    "source": "Meta Ads",
+    "status": "disqualified"
+  },
+  {
+    "id": "lead-ms-meta-047",
+    "companyId": "montseguro",
+    "campaignId": "cmp-ms-meta",
+    "salespersonId": "sp-ms-01",
+    "createdAt": "2026-08-22",
+    "source": "Meta Ads",
+    "status": "disqualified"
+  },
+  {
+    "id": "lead-ms-meta-048",
+    "companyId": "montseguro",
+    "campaignId": "cmp-ms-meta",
+    "salespersonId": "sp-ms-02",
+    "createdAt": "2026-08-23",
+    "source": "Meta Ads",
+    "status": "disqualified"
+  },
+  {
+    "id": "lead-ms-meta-049",
+    "companyId": "montseguro",
+    "campaignId": "cmp-ms-meta",
+    "salespersonId": "sp-ms-01",
+    "createdAt": "2026-08-24",
+    "source": "Meta Ads",
+    "status": "disqualified"
+  },
+  {
+    "id": "lead-ms-meta-050",
+    "companyId": "montseguro",
+    "campaignId": "cmp-ms-meta",
+    "salespersonId": "sp-ms-02",
+    "createdAt": "2026-08-25",
+    "source": "Meta Ads",
+    "status": "disqualified"
+  },
+  {
+    "id": "lead-ms-meta-051",
+    "companyId": "montseguro",
+    "campaignId": "cmp-ms-meta",
+    "salespersonId": "sp-ms-01",
+    "createdAt": "2026-08-26",
+    "source": "Meta Ads",
+    "status": "disqualified"
+  },
+  {
+    "id": "lead-ms-meta-052",
+    "companyId": "montseguro",
+    "campaignId": "cmp-ms-meta",
+    "salespersonId": "sp-ms-02",
+    "createdAt": "2026-08-27",
+    "source": "Meta Ads",
+    "status": "disqualified"
+  },
+  {
+    "id": "lead-ms-meta-053",
+    "companyId": "montseguro",
+    "campaignId": "cmp-ms-meta",
+    "salespersonId": "sp-ms-01",
+    "createdAt": "2026-08-28",
+    "source": "Meta Ads",
+    "status": "disqualified"
+  },
+  {
+    "id": "lead-ms-meta-054",
+    "companyId": "montseguro",
+    "campaignId": "cmp-ms-meta",
+    "salespersonId": "sp-ms-02",
+    "createdAt": "2026-08-01",
+    "source": "Meta Ads",
+    "status": "disqualified"
+  },
+  {
+    "id": "lead-ms-meta-055",
+    "companyId": "montseguro",
+    "campaignId": "cmp-ms-meta",
+    "salespersonId": "sp-ms-01",
+    "createdAt": "2026-08-02",
+    "source": "Meta Ads",
+    "status": "disqualified"
+  },
+  {
+    "id": "lead-p5-web-056",
+    "companyId": "prop5",
+    "campaignId": "cmp-p5-webinar",
+    "salespersonId": "sp-p5-01",
+    "createdAt": "2026-08-03",
+    "source": "Evento/Webinar",
+    "status": "disqualified"
+  },
+  {
+    "id": "lead-p5-web-057",
+    "companyId": "prop5",
+    "campaignId": "cmp-p5-webinar",
+    "salespersonId": "sp-p5-02",
+    "createdAt": "2026-08-04",
+    "source": "Evento/Webinar",
+    "status": "disqualified"
+  },
+  {
+    "id": "lead-p5-web-058",
+    "companyId": "prop5",
+    "campaignId": "cmp-p5-webinar",
+    "salespersonId": "sp-p5-01",
+    "createdAt": "2026-08-05",
+    "source": "Evento/Webinar",
+    "status": "disqualified"
+  },
+  {
+    "id": "lead-p5-web-059",
+    "companyId": "prop5",
+    "campaignId": "cmp-p5-webinar",
+    "salespersonId": "sp-p5-02",
+    "createdAt": "2026-08-06",
+    "source": "Evento/Webinar",
+    "status": "disqualified"
+  },
+  {
+    "id": "lead-p5-web-060",
+    "companyId": "prop5",
+    "campaignId": "cmp-p5-webinar",
+    "salespersonId": "sp-p5-01",
+    "createdAt": "2026-08-07",
+    "source": "Evento/Webinar",
+    "status": "disqualified"
+  },
+  {
+    "id": "lead-p5-web-061",
+    "companyId": "prop5",
+    "campaignId": "cmp-p5-webinar",
+    "salespersonId": "sp-p5-02",
+    "createdAt": "2026-08-08",
+    "source": "Evento/Webinar",
+    "status": "disqualified"
+  },
+  {
+    "id": "lead-p5-web-062",
+    "companyId": "prop5",
+    "campaignId": "cmp-p5-webinar",
+    "salespersonId": "sp-p5-01",
+    "createdAt": "2026-08-09",
+    "source": "Evento/Webinar",
+    "status": "disqualified"
+  },
+  {
+    "id": "lead-p5-web-063",
+    "companyId": "prop5",
+    "campaignId": "cmp-p5-webinar",
+    "salespersonId": "sp-p5-02",
+    "createdAt": "2026-08-10",
+    "source": "Evento/Webinar",
+    "status": "disqualified"
+  },
+  {
+    "id": "lead-p5-goog-064",
+    "companyId": "prop5",
+    "campaignId": "cmp-p5-google",
+    "salespersonId": "sp-p5-02",
+    "createdAt": "2026-08-02",
+    "source": "Google Ads",
+    "status": "disqualified"
+  },
+  {
+    "id": "lead-p5-goog-065",
+    "companyId": "prop5",
+    "campaignId": "cmp-p5-google",
+    "salespersonId": "sp-p5-01",
+    "createdAt": "2026-08-03",
+    "source": "Google Ads",
+    "status": "disqualified"
+  },
+  {
+    "id": "lead-p5-goog-066",
+    "companyId": "prop5",
+    "campaignId": "cmp-p5-google",
+    "salespersonId": "sp-p5-02",
+    "createdAt": "2026-08-04",
+    "source": "Google Ads",
+    "status": "disqualified"
+  },
+  {
+    "id": "lead-p5-goog-067",
+    "companyId": "prop5",
+    "campaignId": "cmp-p5-google",
+    "salespersonId": "sp-p5-01",
+    "createdAt": "2026-08-05",
+    "source": "Google Ads",
+    "status": "disqualified"
+  },
+  {
+    "id": "lead-p5-goog-068",
+    "companyId": "prop5",
+    "campaignId": "cmp-p5-google",
+    "salespersonId": "sp-p5-02",
+    "createdAt": "2026-08-06",
+    "source": "Google Ads",
+    "status": "disqualified"
+  },
+  {
+    "id": "lead-p5-goog-069",
+    "companyId": "prop5",
+    "campaignId": "cmp-p5-google",
+    "salespersonId": "sp-p5-01",
+    "createdAt": "2026-08-07",
+    "source": "Google Ads",
+    "status": "disqualified"
+  },
+  {
+    "id": "lead-p5-goog-070",
+    "companyId": "prop5",
+    "campaignId": "cmp-p5-google",
+    "salespersonId": "sp-p5-02",
+    "createdAt": "2026-08-08",
+    "source": "Google Ads",
+    "status": "disqualified"
+  },
+  {
+    "id": "lead-p5-goog-071",
+    "companyId": "prop5",
+    "campaignId": "cmp-p5-google",
+    "salespersonId": "sp-p5-01",
+    "createdAt": "2026-08-09",
+    "source": "Google Ads",
+    "status": "disqualified"
+  },
+  {
+    "id": "lead-p5-goog-072",
+    "companyId": "prop5",
+    "campaignId": "cmp-p5-google",
+    "salespersonId": "sp-p5-02",
+    "createdAt": "2026-08-10",
+    "source": "Google Ads",
+    "status": "disqualified"
+  },
+  {
+    "id": "lead-p5-goog-073",
+    "companyId": "prop5",
+    "campaignId": "cmp-p5-google",
+    "salespersonId": "sp-p5-01",
+    "createdAt": "2026-08-11",
+    "source": "Google Ads",
+    "status": "disqualified"
+  },
+  {
+    "id": "lead-p5-goog-074",
+    "companyId": "prop5",
+    "campaignId": "cmp-p5-google",
+    "salespersonId": "sp-p5-02",
+    "createdAt": "2026-08-12",
+    "source": "Google Ads",
+    "status": "disqualified"
+  },
+  {
+    "id": "lead-p5-goog-075",
+    "companyId": "prop5",
+    "campaignId": "cmp-p5-google",
+    "salespersonId": "sp-p5-01",
+    "createdAt": "2026-08-13",
+    "source": "Google Ads",
+    "status": "disqualified"
+  },
+  {
+    "id": "lead-p5-goog-076",
+    "companyId": "prop5",
+    "campaignId": "cmp-p5-google",
+    "salespersonId": "sp-p5-02",
+    "createdAt": "2026-08-14",
+    "source": "Google Ads",
+    "status": "disqualified"
+  },
+  {
+    "id": "lead-p5-goog-077",
+    "companyId": "prop5",
+    "campaignId": "cmp-p5-google",
+    "salespersonId": "sp-p5-01",
+    "createdAt": "2026-08-15",
+    "source": "Google Ads",
+    "status": "disqualified"
+  },
+  {
+    "id": "lead-p5-goog-078",
+    "companyId": "prop5",
+    "campaignId": "cmp-p5-google",
+    "salespersonId": "sp-p5-02",
+    "createdAt": "2026-08-16",
+    "source": "Google Ads",
+    "status": "disqualified"
+  },
+  {
+    "id": "lead-p5-goog-079",
+    "companyId": "prop5",
+    "campaignId": "cmp-p5-google",
+    "salespersonId": "sp-p5-01",
+    "createdAt": "2026-08-17",
+    "source": "Google Ads",
+    "status": "disqualified"
+  },
+  {
+    "id": "lead-p5-goog-080",
+    "companyId": "prop5",
+    "campaignId": "cmp-p5-google",
+    "salespersonId": "sp-p5-02",
+    "createdAt": "2026-08-18",
+    "source": "Google Ads",
+    "status": "disqualified"
+  },
+  {
+    "id": "lead-p5-goog-081",
+    "companyId": "prop5",
+    "campaignId": "cmp-p5-google",
+    "salespersonId": "sp-p5-01",
+    "createdAt": "2026-08-19",
+    "source": "Google Ads",
+    "status": "disqualified"
+  },
+  {
+    "id": "lead-p5-goog-082",
+    "companyId": "prop5",
+    "campaignId": "cmp-p5-google",
+    "salespersonId": "sp-p5-02",
+    "createdAt": "2026-08-20",
+    "source": "Google Ads",
+    "status": "disqualified"
+  },
+  {
+    "id": "lead-p5-goog-083",
+    "companyId": "prop5",
+    "campaignId": "cmp-p5-google",
+    "salespersonId": "sp-p5-01",
+    "createdAt": "2026-08-21",
+    "source": "Google Ads",
+    "status": "disqualified"
+  },
+  {
+    "id": "lead-p5-li-084",
+    "companyId": "prop5",
+    "campaignId": "cmp-p5-linkedin",
+    "salespersonId": "sp-p5-01",
+    "createdAt": "2026-08-01",
+    "source": "LinkedIn",
+    "status": "disqualified"
+  },
+  {
+    "id": "lead-p5-li-085",
+    "companyId": "prop5",
+    "campaignId": "cmp-p5-linkedin",
+    "salespersonId": "sp-p5-02",
+    "createdAt": "2026-08-02",
+    "source": "LinkedIn",
+    "status": "disqualified"
+  },
+  {
+    "id": "lead-p5-li-086",
+    "companyId": "prop5",
+    "campaignId": "cmp-p5-linkedin",
+    "salespersonId": "sp-p5-01",
+    "createdAt": "2026-08-03",
+    "source": "LinkedIn",
+    "status": "disqualified"
+  },
+  {
+    "id": "lead-p5-li-087",
+    "companyId": "prop5",
+    "campaignId": "cmp-p5-linkedin",
+    "salespersonId": "sp-p5-02",
+    "createdAt": "2026-08-04",
+    "source": "LinkedIn",
+    "status": "disqualified"
+  },
+  {
+    "id": "lead-p5-li-088",
+    "companyId": "prop5",
+    "campaignId": "cmp-p5-linkedin",
+    "salespersonId": "sp-p5-01",
+    "createdAt": "2026-08-05",
+    "source": "LinkedIn",
+    "status": "disqualified"
+  },
+  {
+    "id": "lead-p5-li-089",
+    "companyId": "prop5",
+    "campaignId": "cmp-p5-linkedin",
+    "salespersonId": "sp-p5-02",
+    "createdAt": "2026-08-06",
+    "source": "LinkedIn",
+    "status": "disqualified"
+  },
+  {
+    "id": "lead-p5-li-090",
+    "companyId": "prop5",
+    "campaignId": "cmp-p5-linkedin",
+    "salespersonId": "sp-p5-01",
+    "createdAt": "2026-08-07",
+    "source": "LinkedIn",
+    "status": "disqualified"
+  },
+  {
+    "id": "lead-p5-li-091",
+    "companyId": "prop5",
+    "campaignId": "cmp-p5-linkedin",
+    "salespersonId": "sp-p5-02",
+    "createdAt": "2026-08-08",
+    "source": "LinkedIn",
+    "status": "disqualified"
+  },
+  {
+    "id": "lead-p5-li-092",
+    "companyId": "prop5",
+    "campaignId": "cmp-p5-linkedin",
+    "salespersonId": "sp-p5-01",
+    "createdAt": "2026-08-09",
+    "source": "LinkedIn",
+    "status": "disqualified"
+  },
+  {
+    "id": "lead-p5-li-093",
+    "companyId": "prop5",
+    "campaignId": "cmp-p5-linkedin",
+    "salespersonId": "sp-p5-02",
+    "createdAt": "2026-08-10",
+    "source": "LinkedIn",
+    "status": "disqualified"
+  },
+  {
+    "id": "lead-p5-li-094",
+    "companyId": "prop5",
+    "campaignId": "cmp-p5-linkedin",
+    "salespersonId": "sp-p5-01",
+    "createdAt": "2026-08-11",
+    "source": "LinkedIn",
+    "status": "disqualified"
+  },
+  {
+    "id": "lead-p5-li-095",
+    "companyId": "prop5",
+    "campaignId": "cmp-p5-linkedin",
+    "salespersonId": "sp-p5-02",
+    "createdAt": "2026-08-12",
+    "source": "LinkedIn",
+    "status": "disqualified"
+  },
+  {
+    "id": "lead-p5-li-096",
+    "companyId": "prop5",
+    "campaignId": "cmp-p5-linkedin",
+    "salespersonId": "sp-p5-01",
+    "createdAt": "2026-08-13",
+    "source": "LinkedIn",
+    "status": "disqualified"
+  },
+  {
+    "id": "lead-p5-li-097",
+    "companyId": "prop5",
+    "campaignId": "cmp-p5-linkedin",
+    "salespersonId": "sp-p5-02",
+    "createdAt": "2026-08-14",
+    "source": "LinkedIn",
+    "status": "disqualified"
+  },
+  {
+    "id": "lead-p5-li-098",
+    "companyId": "prop5",
+    "campaignId": "cmp-p5-linkedin",
+    "salespersonId": "sp-p5-01",
+    "createdAt": "2026-08-15",
+    "source": "LinkedIn",
+    "status": "disqualified"
+  },
+  {
+    "id": "lead-p5-li-099",
+    "companyId": "prop5",
+    "campaignId": "cmp-p5-linkedin",
+    "salespersonId": "sp-p5-02",
+    "createdAt": "2026-08-16",
+    "source": "LinkedIn",
+    "status": "disqualified"
+  },
+  {
+    "id": "lead-p5-li-100",
+    "companyId": "prop5",
+    "campaignId": "cmp-p5-linkedin",
+    "salespersonId": "sp-p5-01",
+    "createdAt": "2026-08-17",
+    "source": "LinkedIn",
+    "status": "disqualified"
+  },
+  {
+    "id": "lead-p5-li-101",
+    "companyId": "prop5",
+    "campaignId": "cmp-p5-linkedin",
+    "salespersonId": "sp-p5-02",
+    "createdAt": "2026-08-18",
+    "source": "LinkedIn",
+    "status": "disqualified"
+  },
+  {
+    "id": "lead-p5-li-102",
+    "companyId": "prop5",
+    "campaignId": "cmp-p5-linkedin",
+    "salespersonId": "sp-p5-01",
+    "createdAt": "2026-08-19",
+    "source": "LinkedIn",
+    "status": "disqualified"
+  },
+  {
+    "id": "lead-p5-li-103",
+    "companyId": "prop5",
+    "campaignId": "cmp-p5-linkedin",
+    "salespersonId": "sp-p5-02",
+    "createdAt": "2026-08-20",
+    "source": "LinkedIn",
+    "status": "disqualified"
+  },
+  {
+    "id": "lead-p5-li-104",
+    "companyId": "prop5",
+    "campaignId": "cmp-p5-linkedin",
+    "salespersonId": "sp-p5-01",
+    "createdAt": "2026-08-21",
+    "source": "LinkedIn",
+    "status": "disqualified"
+  },
+  {
+    "id": "lead-p5-li-105",
+    "companyId": "prop5",
+    "campaignId": "cmp-p5-linkedin",
+    "salespersonId": "sp-p5-02",
+    "createdAt": "2026-08-22",
+    "source": "LinkedIn",
+    "status": "disqualified"
+  },
+  {
+    "id": "lead-p5-li-106",
+    "companyId": "prop5",
+    "campaignId": "cmp-p5-linkedin",
+    "salespersonId": "sp-p5-01",
+    "createdAt": "2026-08-23",
+    "source": "LinkedIn",
+    "status": "disqualified"
+  },
+  {
+    "id": "lead-p5-li-107",
+    "companyId": "prop5",
+    "campaignId": "cmp-p5-linkedin",
+    "salespersonId": "sp-p5-02",
+    "createdAt": "2026-08-24",
+    "source": "LinkedIn",
+    "status": "disqualified"
+  },
+  {
+    "id": "lead-p5-li-108",
+    "companyId": "prop5",
+    "campaignId": "cmp-p5-linkedin",
+    "salespersonId": "sp-p5-01",
+    "createdAt": "2026-08-25",
+    "source": "LinkedIn",
+    "status": "disqualified"
+  },
+  {
+    "id": "lead-p5-li-109",
+    "companyId": "prop5",
+    "campaignId": "cmp-p5-linkedin",
+    "salespersonId": "sp-p5-02",
+    "createdAt": "2026-08-26",
+    "source": "LinkedIn",
+    "status": "disqualified"
+  },
+  {
+    "id": "lead-p5-li-110",
+    "companyId": "prop5",
+    "campaignId": "cmp-p5-linkedin",
+    "salespersonId": "sp-p5-01",
+    "createdAt": "2026-08-27",
+    "source": "LinkedIn",
+    "status": "disqualified"
+  },
+  {
+    "id": "lead-p5-li-111",
+    "companyId": "prop5",
+    "campaignId": "cmp-p5-linkedin",
+    "salespersonId": "sp-p5-02",
+    "createdAt": "2026-08-28",
+    "source": "LinkedIn",
+    "status": "disqualified"
+  },
+  {
+    "id": "lead-p5-li-112",
+    "companyId": "prop5",
+    "campaignId": "cmp-p5-linkedin",
+    "salespersonId": "sp-p5-01",
+    "createdAt": "2026-08-01",
+    "source": "LinkedIn",
+    "status": "disqualified"
+  },
+  {
+    "id": "lead-p5-li-113",
+    "companyId": "prop5",
+    "campaignId": "cmp-p5-linkedin",
+    "salespersonId": "sp-p5-02",
+    "createdAt": "2026-08-02",
+    "source": "LinkedIn",
+    "status": "disqualified"
+  },
+  {
+    "id": "lead-p5-li-114",
+    "companyId": "prop5",
+    "campaignId": "cmp-p5-linkedin",
+    "salespersonId": "sp-p5-01",
+    "createdAt": "2026-08-03",
+    "source": "LinkedIn",
+    "status": "disqualified"
+  },
+  {
+    "id": "lead-p5-li-115",
+    "companyId": "prop5",
+    "campaignId": "cmp-p5-linkedin",
+    "salespersonId": "sp-p5-02",
+    "createdAt": "2026-08-04",
+    "source": "LinkedIn",
+    "status": "disqualified"
+  },
+  {
+    "id": "lead-p5-li-116",
+    "companyId": "prop5",
+    "campaignId": "cmp-p5-linkedin",
+    "salespersonId": "sp-p5-01",
+    "createdAt": "2026-08-05",
+    "source": "LinkedIn",
+    "status": "disqualified"
+  },
+  {
+    "id": "lead-p5-li-117",
+    "companyId": "prop5",
+    "campaignId": "cmp-p5-linkedin",
+    "salespersonId": "sp-p5-02",
+    "createdAt": "2026-08-06",
+    "source": "LinkedIn",
+    "status": "disqualified"
+  },
+  {
+    "id": "lead-tb-ref-118",
+    "companyId": "techbrabo",
+    "campaignId": "cmp-tb-ref",
+    "salespersonId": "sp-tb-01",
+    "createdAt": "2026-08-08",
+    "source": "Indicação",
+    "status": "disqualified"
+  },
+  {
+    "id": "lead-tb-ref-119",
+    "companyId": "techbrabo",
+    "campaignId": "cmp-tb-ref",
+    "salespersonId": "sp-tb-01",
+    "createdAt": "2026-08-09",
+    "source": "Indicação",
+    "status": "disqualified"
+  },
+  {
+    "id": "lead-tb-out-120",
+    "companyId": "techbrabo",
+    "campaignId": "cmp-tb-outbound",
+    "salespersonId": "sp-tb-01",
+    "createdAt": "2026-08-04",
+    "source": "Outbound",
+    "status": "disqualified"
+  },
+  {
+    "id": "lead-tb-out-121",
+    "companyId": "techbrabo",
+    "campaignId": "cmp-tb-outbound",
+    "salespersonId": "sp-tb-02",
+    "createdAt": "2026-08-05",
+    "source": "Outbound",
+    "status": "disqualified"
+  },
+  {
+    "id": "lead-tb-out-122",
+    "companyId": "techbrabo",
+    "campaignId": "cmp-tb-outbound",
+    "salespersonId": "sp-tb-01",
+    "createdAt": "2026-08-06",
+    "source": "Outbound",
+    "status": "disqualified"
+  },
+  {
+    "id": "lead-tb-out-123",
+    "companyId": "techbrabo",
+    "campaignId": "cmp-tb-outbound",
+    "salespersonId": "sp-tb-02",
+    "createdAt": "2026-08-07",
+    "source": "Outbound",
+    "status": "disqualified"
+  },
+  {
+    "id": "lead-tb-out-124",
+    "companyId": "techbrabo",
+    "campaignId": "cmp-tb-outbound",
+    "salespersonId": "sp-tb-01",
+    "createdAt": "2026-08-08",
+    "source": "Outbound",
+    "status": "disqualified"
+  },
+  {
+    "id": "lead-tb-out-125",
+    "companyId": "techbrabo",
+    "campaignId": "cmp-tb-outbound",
+    "salespersonId": "sp-tb-02",
+    "createdAt": "2026-08-09",
+    "source": "Outbound",
+    "status": "disqualified"
+  },
+  {
+    "id": "lead-tb-out-126",
+    "companyId": "techbrabo",
+    "campaignId": "cmp-tb-outbound",
+    "salespersonId": "sp-tb-01",
+    "createdAt": "2026-08-10",
+    "source": "Outbound",
+    "status": "disqualified"
+  },
+  {
+    "id": "lead-tb-out-127",
+    "companyId": "techbrabo",
+    "campaignId": "cmp-tb-outbound",
+    "salespersonId": "sp-tb-02",
+    "createdAt": "2026-08-11",
+    "source": "Outbound",
+    "status": "disqualified"
+  },
+  {
+    "id": "lead-tb-out-128",
+    "companyId": "techbrabo",
+    "campaignId": "cmp-tb-outbound",
+    "salespersonId": "sp-tb-01",
+    "createdAt": "2026-08-12",
+    "source": "Outbound",
+    "status": "disqualified"
+  },
+  {
+    "id": "lead-tb-out-129",
+    "companyId": "techbrabo",
+    "campaignId": "cmp-tb-outbound",
+    "salespersonId": "sp-tb-02",
+    "createdAt": "2026-08-13",
+    "source": "Outbound",
+    "status": "disqualified"
+  },
+  {
+    "id": "lead-tb-li-130",
+    "companyId": "techbrabo",
+    "campaignId": "cmp-tb-linkedin",
+    "salespersonId": "sp-tb-02",
+    "createdAt": "2026-08-01",
+    "source": "LinkedIn",
+    "status": "disqualified"
+  },
+  {
+    "id": "lead-tb-li-131",
+    "companyId": "techbrabo",
+    "campaignId": "cmp-tb-linkedin",
+    "salespersonId": "sp-tb-01",
+    "createdAt": "2026-08-02",
+    "source": "LinkedIn",
+    "status": "disqualified"
+  },
+  {
+    "id": "lead-tb-li-132",
+    "companyId": "techbrabo",
+    "campaignId": "cmp-tb-linkedin",
+    "salespersonId": "sp-tb-02",
+    "createdAt": "2026-08-03",
+    "source": "LinkedIn",
+    "status": "disqualified"
+  },
+  {
+    "id": "lead-tb-li-133",
+    "companyId": "techbrabo",
+    "campaignId": "cmp-tb-linkedin",
+    "salespersonId": "sp-tb-01",
+    "createdAt": "2026-08-04",
+    "source": "LinkedIn",
+    "status": "disqualified"
+  },
+  {
+    "id": "lead-tb-li-134",
+    "companyId": "techbrabo",
+    "campaignId": "cmp-tb-linkedin",
+    "salespersonId": "sp-tb-02",
+    "createdAt": "2026-08-05",
+    "source": "LinkedIn",
+    "status": "disqualified"
+  },
+  {
+    "id": "lead-tb-li-135",
+    "companyId": "techbrabo",
+    "campaignId": "cmp-tb-linkedin",
+    "salespersonId": "sp-tb-01",
+    "createdAt": "2026-08-06",
+    "source": "LinkedIn",
+    "status": "disqualified"
+  },
+  {
+    "id": "lead-tb-li-136",
+    "companyId": "techbrabo",
+    "campaignId": "cmp-tb-linkedin",
+    "salespersonId": "sp-tb-02",
+    "createdAt": "2026-08-07",
+    "source": "LinkedIn",
+    "status": "disqualified"
+  },
+  {
+    "id": "lead-tb-li-137",
+    "companyId": "techbrabo",
+    "campaignId": "cmp-tb-linkedin",
+    "salespersonId": "sp-tb-01",
+    "createdAt": "2026-08-08",
+    "source": "LinkedIn",
+    "status": "disqualified"
+  },
+  {
+    "id": "lead-tb-li-138",
+    "companyId": "techbrabo",
+    "campaignId": "cmp-tb-linkedin",
+    "salespersonId": "sp-tb-02",
+    "createdAt": "2026-08-09",
+    "source": "LinkedIn",
+    "status": "disqualified"
+  },
+  {
+    "id": "lead-tb-li-139",
+    "companyId": "techbrabo",
+    "campaignId": "cmp-tb-linkedin",
+    "salespersonId": "sp-tb-01",
+    "createdAt": "2026-08-10",
+    "source": "LinkedIn",
+    "status": "disqualified"
+  },
+  {
+    "id": "lead-tb-li-140",
+    "companyId": "techbrabo",
+    "campaignId": "cmp-tb-linkedin",
+    "salespersonId": "sp-tb-02",
+    "createdAt": "2026-08-11",
+    "source": "LinkedIn",
+    "status": "disqualified"
+  },
+  {
+    "id": "lead-tb-li-141",
+    "companyId": "techbrabo",
+    "campaignId": "cmp-tb-linkedin",
+    "salespersonId": "sp-tb-01",
+    "createdAt": "2026-08-12",
+    "source": "LinkedIn",
+    "status": "disqualified"
+  },
+  {
+    "id": "lead-tb-li-142",
+    "companyId": "techbrabo",
+    "campaignId": "cmp-tb-linkedin",
+    "salespersonId": "sp-tb-02",
+    "createdAt": "2026-08-13",
+    "source": "LinkedIn",
+    "status": "disqualified"
+  },
+  {
+    "id": "lead-tb-li-143",
+    "companyId": "techbrabo",
+    "campaignId": "cmp-tb-linkedin",
+    "salespersonId": "sp-tb-01",
+    "createdAt": "2026-08-14",
+    "source": "LinkedIn",
+    "status": "disqualified"
+  },
+  {
+    "id": "lead-tb-li-144",
+    "companyId": "techbrabo",
+    "campaignId": "cmp-tb-linkedin",
+    "salespersonId": "sp-tb-02",
+    "createdAt": "2026-08-15",
+    "source": "LinkedIn",
+    "status": "disqualified"
+  },
+  {
+    "id": "lead-tb-li-145",
+    "companyId": "techbrabo",
+    "campaignId": "cmp-tb-linkedin",
+    "salespersonId": "sp-tb-01",
+    "createdAt": "2026-08-16",
+    "source": "LinkedIn",
+    "status": "disqualified"
+  },
+  {
+    "id": "lead-tb-li-146",
+    "companyId": "techbrabo",
+    "campaignId": "cmp-tb-linkedin",
+    "salespersonId": "sp-tb-02",
+    "createdAt": "2026-08-17",
+    "source": "LinkedIn",
+    "status": "disqualified"
+  },
+  {
+    "id": "lead-tb-li-147",
+    "companyId": "techbrabo",
+    "campaignId": "cmp-tb-linkedin",
+    "salespersonId": "sp-tb-01",
+    "createdAt": "2026-08-18",
+    "source": "LinkedIn",
+    "status": "disqualified"
+  },
+  {
+    "id": "lead-tb-li-148",
+    "companyId": "techbrabo",
+    "campaignId": "cmp-tb-linkedin",
+    "salespersonId": "sp-tb-02",
+    "createdAt": "2026-08-19",
+    "source": "LinkedIn",
+    "status": "disqualified"
+  },
+  {
+    "id": "lead-tb-li-149",
+    "companyId": "techbrabo",
+    "campaignId": "cmp-tb-linkedin",
+    "salespersonId": "sp-tb-01",
+    "createdAt": "2026-08-20",
+    "source": "LinkedIn",
+    "status": "disqualified"
+  },
+  {
+    "id": "lead-tb-li-150",
+    "companyId": "techbrabo",
+    "campaignId": "cmp-tb-linkedin",
+    "salespersonId": "sp-tb-02",
+    "createdAt": "2026-08-21",
+    "source": "LinkedIn",
+    "status": "disqualified"
+  },
+  {
+    "id": "lead-tb-li-151",
+    "companyId": "techbrabo",
+    "campaignId": "cmp-tb-linkedin",
+    "salespersonId": "sp-tb-01",
+    "createdAt": "2026-08-22",
+    "source": "LinkedIn",
+    "status": "disqualified"
+  },
+  {
+    "id": "lead-tb-li-152",
+    "companyId": "techbrabo",
+    "campaignId": "cmp-tb-linkedin",
+    "salespersonId": "sp-tb-02",
+    "createdAt": "2026-08-23",
+    "source": "LinkedIn",
+    "status": "disqualified"
+  },
+  {
+    "id": "lead-tb-li-153",
+    "companyId": "techbrabo",
+    "campaignId": "cmp-tb-linkedin",
+    "salespersonId": "sp-tb-01",
+    "createdAt": "2026-08-24",
+    "source": "LinkedIn",
+    "status": "disqualified"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "sp-ms-01",
+    "companyId": "montseguro",
+    "name": "Ana Lima"
+  },
+  {
+    "id": "sp-ms-02",
+    "companyId": "montseguro",
+    "name": "Bruno Reis"
+  },
+  {
+    "id": "sp-p5-01",
+    "companyId": "prop5",
+    "name": "Carla Souza"
+  },
+  {
+    "id": "sp-p5-02",
+    "companyId": "prop5",
+    "name": "Diego Martins"
+  },
+  {
+    "id": "sp-tb-01",
+    "companyId": "techbrabo",
+    "name": "Edu Costa"
+  },
+  {
+    "id": "sp-tb-02",
+    "companyId": "techbrabo",
+    "name": "Fernanda Rocha"
+  }
+]

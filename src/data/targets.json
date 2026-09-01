@@ -1,0 +1,26 @@
+[
+  {
+    "id": "tgt-ms-aug",
+    "companyId": "montseguro",
+    "period": "2026-08",
+    "metric": "implanted_lives",
+    "targetValue": 450,
+    "unit": "vidas"
+  },
+  {
+    "id": "tgt-p5-aug",
+    "companyId": "prop5",
+    "period": "2026-08",
+    "metric": "commission_realized",
+    "targetValue": 200000,
+    "unit": "BRL"
+  },
+  {
+    "id": "tgt-tb-aug",
+    "companyId": "techbrabo",
+    "period": "2026-08",
+    "metric": "recognized_revenue",
+    "targetValue": 300000,
+    "unit": "BRL"
+  }
+]
